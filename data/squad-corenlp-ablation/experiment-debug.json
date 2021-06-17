@@ -1,0 +1,1275 @@
+[{'index': 0, 'entitymentions': docTokenBegin': 2, 'docTokenEnd': 3,
+[{''tokenBegin': 2, 'tokenEnd': 3, 'text': '13', 'characterOffsetBegin': 10,
+[{''characterOffsetEnd': 12, 'ner': 'NUMBER', 'normalizedNER': '13.0',
+[{''nerConfidences': {'NUMBER': -1}}, {'docTokenBegin': 6, 'docTokenEnd': 7,
+[{''tokenBegin': 6, 'tokenEnd': 7, 'text': 'Warsaw', 'characterOffsetBegin': 33,
+[{''characterOffsetEnd': 39, 'ner': 'CITY', 'nerConfidences': {'LOCATION':
+[{'0.99937600279661}}, {'docTokenBegin': 11, 'docTokenEnd': 13, 'tokenBegin':
+[{'11, 'tokenEnd': 13, 'text': 'Bielany Forest', 'characterOffsetBegin': 56,
+[{''characterOffsetEnd': 70, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.79774872051817}}, {'docTokenBegin': 14, 'docTokenEnd': 16, 'tokenBegin':
+[{'14, 'tokenEnd': 16, 'text': 'Kabaty Woods', 'characterOffsetBegin': 72,
+[{''characterOffsetEnd': 84, 'ner': 'PERSON', 'nerConfidences': {'PERSON':
+[{'0.53475620807749}}, {'docTokenBegin': 17, 'docTokenEnd': 19, 'tokenBegin':
+[{'17, 'tokenEnd': 19, 'text': 'Czerniaków Lake', 'characterOffsetBegin': 86,
+[{''characterOffsetEnd': 101, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.97513453586902}}], 'tokens': index': 1, 'word': 'There', 'originalText':
+[{''There', 'lemma': 'there', 'characterOffsetBegin': 0, 'characterOffsetEnd':
+[{'5, 'pos': 'EX', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 2, 'word':
+[{''are', 'originalText': 'are', 'lemma': 'be', 'characterOffsetBegin': 6,
+[{''characterOffsetEnd': 9, 'pos': 'VBP', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 3, 'word': '13', 'originalText': '13', 'lemma': '13',
+[{''characterOffsetBegin': 10, 'characterOffsetEnd': 12, 'pos': 'CD', 'ner':
+[{''NUMBER', 'normalizedNER': '13.0', 'before': ' ', 'after': ' '}, {'index': 4,
+[{''word': 'natural', 'originalText': 'natural', 'lemma': 'natural',
+[{''characterOffsetBegin': 13, 'characterOffsetEnd': 20, 'pos': 'JJ', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 5, 'word': 'reserves',
+[{''originalText': 'reserves', 'lemma': 'reserve', 'characterOffsetBegin': 21,
+[{''characterOffsetEnd': 29, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 6, 'word': 'in', 'originalText': 'in', 'lemma': 'in',
+[{''characterOffsetBegin': 30, 'characterOffsetEnd': 32, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 7, 'word': 'Warsaw',
+[{''originalText': 'Warsaw', 'lemma': 'Warsaw', 'characterOffsetBegin': 33,
+[{''characterOffsetEnd': 39, 'pos': 'NNP', 'ner': 'CITY', 'before': ' ',
+[{''after': ' '}, {'index': 8, 'word': '–', 'originalText': '–', 'lemma': '–',
+[{''characterOffsetBegin': 40, 'characterOffsetEnd': 41, 'pos': 'SYM', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 9, 'word': 'among',
+[{''originalText': 'among', 'lemma': 'among', 'characterOffsetBegin': 42,
+[{''characterOffsetEnd': 47, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 10, 'word': 'others', 'originalText': 'others', 'lemma':
+[{''other', 'characterOffsetBegin': 48, 'characterOffsetEnd': 54, 'pos': 'NNS',
+[{''ner': 'O', 'before': ' ', 'after': ''}, {'index': 11, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 54,
+[{''characterOffsetEnd': 55, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 12, 'word': 'Bielany', 'originalText': 'Bielany', 'lemma':
+[{''Bielany', 'characterOffsetBegin': 56, 'characterOffsetEnd': 63, 'pos':
+[{''NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 13, 'word':
+[{''Forest', 'originalText': 'Forest', 'lemma': 'Forest',
+[{''characterOffsetBegin': 64, 'characterOffsetEnd': 70, 'pos': 'NNP', 'ner':
+[{''LOCATION', 'before': ' ', 'after': ''}, {'index': 14, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 70,
+[{''characterOffsetEnd': 71, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 15, 'word': 'Kabaty', 'originalText': 'Kabaty', 'lemma':
+[{''Kabaty', 'characterOffsetBegin': 72, 'characterOffsetEnd': 78, 'pos': 'NNP',
+[{''ner': 'PERSON', 'before': ' ', 'after': ' '}, {'index': 16, 'word': 'Woods',
+[{''originalText': 'Woods', 'lemma': 'Woods', 'characterOffsetBegin': 79,
+[{''characterOffsetEnd': 84, 'pos': 'NNP', 'ner': 'PERSON', 'before': ' ',
+[{''after': ''}, {'index': 17, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 84, 'characterOffsetEnd': 85, 'pos': ',', 'ner': 'O',
+[{''before': '', 'after': ' '}, {'index': 18, 'word': 'Czerniaków',
+[{''originalText': 'Czerniaków', 'lemma': 'Czerniaków', 'characterOffsetBegin':
+[{'86, 'characterOffsetEnd': 96, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ' '}, {'index': 19, 'word': 'Lake', 'originalText': 'Lake', 'lemma':
+[{''Lake', 'characterOffsetBegin': 97, 'characterOffsetEnd': 101, 'pos': 'NNP',
+[{''ner': 'LOCATION', 'before': ' ', 'after': ''}, {'index': 20, 'word': '.',
+[{''originalText': '.', 'lemma': '.', 'characterOffsetBegin': 101,
+[{''characterOffsetEnd': 102, 'pos': '.', 'ner': 'O', 'before': '', 'after': '
+[{''}]}, {'index': 1, 'entitymentions': docTokenBegin': 21, 'docTokenEnd': 22,
+[{''tokenBegin': 1, 'tokenEnd': 2, 'text': '15', 'characterOffsetBegin': 109,
+[{''characterOffsetEnd': 111, 'ner': 'NUMBER', 'normalizedNER': '~15.0',
+[{''nerConfidences': {'NUMBER': -1}}, {'docTokenBegin': 24, 'docTokenEnd': 25,
+[{''tokenBegin': 4, 'tokenEnd': 5, 'text': '9', 'characterOffsetBegin': 124,
+[{''characterOffsetEnd': 125, 'ner': 'NUMBER', 'normalizedNER': '9.0',
+[{''nerConfidences': {'NUMBER': -1}}, {'docTokenBegin': 28, 'docTokenEnd': 29,
+[{''tokenBegin': 8, 'tokenEnd': 9, 'text': 'Warsaw', 'characterOffsetBegin':
+[{'138, 'characterOffsetEnd': 144, 'ner': 'CITY', 'nerConfidences': {'LOCATION':
+[{'0.99977567251258}}, {'docTokenBegin': 31, 'docTokenEnd': 32, 'tokenBegin':
+[{'11, 'tokenEnd': 12, 'text': 'Vistula', 'characterOffsetBegin': 150,
+[{''characterOffsetEnd': 157, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.98579523479239}}, {'docTokenBegin': 32, 'docTokenEnd': 33, 'tokenBegin':
+[{'12, 'tokenEnd': 13, 'text': 'river', 'characterOffsetBegin': 158,
+[{''characterOffsetEnd': 163, 'ner': 'TITLE', 'nerConfidences': {'LOCATION':
+[{'0.51892213705811}}], 'tokens': index': 1, 'word': 'About', 'originalText':
+[{''About', 'lemma': 'about', 'characterOffsetBegin': 103, 'characterOffsetEnd':
+[{'108, 'pos': 'RB', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 2,
+[{''word': '15', 'originalText': '15', 'lemma': '15', 'characterOffsetBegin':
+[{'109, 'characterOffsetEnd': 111, 'pos': 'CD', 'ner': 'NUMBER',
+[{''normalizedNER': '~15.0', 'before': ' ', 'after': ' '}, {'index': 3, 'word':
+[{''kilometres', 'originalText': 'kilometres', 'lemma': 'kilometre',
+[{''characterOffsetBegin': 112, 'characterOffsetEnd': 122, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': '(', 'originalText':
+[{''(', 'lemma': '(', 'characterOffsetBegin': 123, 'characterOffsetEnd': 124,
+[{''pos': '-LRB-', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 5, 'word':
+[{''9', 'originalText': '9', 'lemma': '9', 'characterOffsetBegin': 124,
+[{''characterOffsetEnd': 125, 'pos': 'CD', 'ner': 'NUMBER', 'normalizedNER':
+[{''9.0', 'before': '', 'after': ' '}, {'index': 6, 'word': 'miles',
+[{''originalText': 'miles', 'lemma': 'mile', 'characterOffsetBegin': 126,
+[{''characterOffsetEnd': 131, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 7, 'word': ')', 'originalText': ')', 'lemma': ')',
+[{''characterOffsetBegin': 131, 'characterOffsetEnd': 132, 'pos': '-RRB-',
+[{''ner': 'O', 'before': '', 'after': ' '}, {'index': 8, 'word': 'from',
+[{''originalText': 'from', 'lemma': 'from', 'characterOffsetBegin': 133,
+[{''characterOffsetEnd': 137, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 9, 'word': 'Warsaw', 'originalText': 'Warsaw', 'lemma':
+[{''Warsaw', 'characterOffsetBegin': 138, 'characterOffsetEnd': 144, 'pos':
+[{''NNP', 'ner': 'CITY', 'before': ' ', 'after': ''}, {'index': 10, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 144,
+[{''characterOffsetEnd': 145, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 11, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 146, 'characterOffsetEnd': 149, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 12, 'word': 'Vistula',
+[{''originalText': 'Vistula', 'lemma': 'Vistula', 'characterOffsetBegin': 150,
+[{''characterOffsetEnd': 157, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ' '}, {'index': 13, 'word': 'river', 'originalText': 'river',
+[{''lemma': 'river', 'characterOffsetBegin': 158, 'characterOffsetEnd': 163,
+[{''pos': 'NN', 'ner': 'TITLE', 'before': ' ', 'after': ''}, {'index': 14,
+[{''word': "'s", 'originalText': "'s", 'lemma': "'s", 'characterOffsetBegin':
+[{'163, 'characterOffsetEnd': 165, 'pos': 'POS', 'ner': 'O', 'before': '',
+[{''after': ' '}, {'index': 15, 'word': 'environment', 'originalText':
+[{''environment', 'lemma': 'environment', 'characterOffsetBegin': 166,
+[{''characterOffsetEnd': 177, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 16, 'word': 'changes', 'originalText': 'changes', 'lemma':
+[{''change', 'characterOffsetBegin': 178, 'characterOffsetEnd': 185, 'pos':
+[{''VBZ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 17, 'word':
+[{''strikingly', 'originalText': 'strikingly', 'lemma': 'strikingly',
+[{''characterOffsetBegin': 186, 'characterOffsetEnd': 196, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 18, 'word': 'and',
+[{''originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 197,
+[{''characterOffsetEnd': 200, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 19, 'word': 'features', 'originalText': 'features', 'lemma':
+[{''feature', 'characterOffsetBegin': 201, 'characterOffsetEnd': 209, 'pos':
+[{''VBZ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 20, 'word': 'a',
+[{''originalText': 'a', 'lemma': 'a', 'characterOffsetBegin': 210,
+[{''characterOffsetEnd': 211, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 21, 'word': 'perfectly', 'originalText': 'perfectly', 'lemma':
+[{''perfectly', 'characterOffsetBegin': 212, 'characterOffsetEnd': 221, 'pos':
+[{''RB', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 22, 'word':
+[{''preserved', 'originalText': 'preserved', 'lemma': 'preserve',
+[{''characterOffsetBegin': 222, 'characterOffsetEnd': 231, 'pos': 'VBN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 23, 'word': 'ecosystem',
+[{''originalText': 'ecosystem', 'lemma': 'ecosystem', 'characterOffsetBegin':
+[{'232, 'characterOffsetEnd': 241, 'pos': 'NN', 'ner': 'O', 'before': ' ',
+[{''after': ''}, {'index': 24, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 241, 'characterOffsetEnd': 242, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 25, 'word': 'with',
+[{''originalText': 'with', 'lemma': 'with', 'characterOffsetBegin': 243,
+[{''characterOffsetEnd': 247, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 26, 'word': 'a', 'originalText': 'a', 'lemma': 'a',
+[{''characterOffsetBegin': 248, 'characterOffsetEnd': 249, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 27, 'word': 'habitat',
+[{''originalText': 'habitat', 'lemma': 'habitat', 'characterOffsetBegin': 250,
+[{''characterOffsetEnd': 257, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 28, 'word': 'of', 'originalText': 'of', 'lemma': 'of',
+[{''characterOffsetBegin': 258, 'characterOffsetEnd': 260, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 29, 'word': 'animals',
+[{''originalText': 'animals', 'lemma': 'animal', 'characterOffsetBegin': 261,
+[{''characterOffsetEnd': 268, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 30, 'word': 'that', 'originalText': 'that', 'lemma': 'that',
+[{''characterOffsetBegin': 269, 'characterOffsetEnd': 273, 'pos': 'WDT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 31, 'word': 'includes',
+[{''originalText': 'includes', 'lemma': 'include', 'characterOffsetBegin': 274,
+[{''characterOffsetEnd': 282, 'pos': 'VBZ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 32, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 283, 'characterOffsetEnd': 286, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 33, 'word': 'otter',
+[{''originalText': 'otter', 'lemma': 'otter', 'characterOffsetBegin': 287,
+[{''characterOffsetEnd': 292, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 34, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 292, 'characterOffsetEnd': 293, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 35, 'word': 'beaver',
+[{''originalText': 'beaver', 'lemma': 'beaver', 'characterOffsetBegin': 294,
+[{''characterOffsetEnd': 300, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 36, 'word': 'and', 'originalText': 'and', 'lemma': 'and',
+[{''characterOffsetBegin': 301, 'characterOffsetEnd': 304, 'pos': 'CC', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 37, 'word': 'hundreds',
+[{''originalText': 'hundreds', 'lemma': 'hundred', 'characterOffsetBegin': 305,
+[{''characterOffsetEnd': 313, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 38, 'word': 'of', 'originalText': 'of', 'lemma': 'of',
+[{''characterOffsetBegin': 314, 'characterOffsetEnd': 316, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 39, 'word': 'bird',
+[{''originalText': 'bird', 'lemma': 'bird', 'characterOffsetBegin': 317,
+[{''characterOffsetEnd': 321, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 40, 'word': 'species', 'originalText': 'species', 'lemma':
+[{''species', 'characterOffsetBegin': 322, 'characterOffsetEnd': 329, 'pos':
+[{''NNS', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 41, 'word': '.',
+[{''originalText': '.', 'lemma': '.', 'characterOffsetBegin': 329,
+[{''characterOffsetEnd': 330, 'pos': '.', 'ner': 'O', 'before': '', 'after': '
+[{''}]}, {'index': 2, 'entitymentions': docTokenBegin': 67, 'docTokenEnd': 68,
+[{''tokenBegin': 6, 'tokenEnd': 7, 'text': 'Warsaw', 'characterOffsetBegin':
+[{'363, 'characterOffsetEnd': 369, 'ner': 'CITY', 'nerConfidences': {'LOCATION':
+[{'0.99884593066087}}, {'docTokenBegin': 75, 'docTokenEnd': 77, 'tokenBegin':
+[{'14, 'tokenEnd': 16, 'text': 'Czerniaków Lake', 'characterOffsetBegin': 401,
+[{''characterOffsetEnd': 416, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.93212136427913}}, {'docTokenBegin': 84, 'docTokenEnd': 86, 'tokenBegin':
+[{'23, 'tokenEnd': 25, 'text': 'Wilanów Parks', 'characterOffsetBegin': 447,
+[{''characterOffsetEnd': 460, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.91405675273469}}, {'docTokenBegin': 87, 'docTokenEnd': 89, 'tokenBegin':
+[{'26, 'tokenEnd': 28, 'text': 'Kamionek Lake', 'characterOffsetBegin': 462,
+[{''characterOffsetEnd': 475, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.97230366896975}}], 'tokens': index': 1, 'word': 'There', 'originalText':
+[{''There', 'lemma': 'there', 'characterOffsetBegin': 331, 'characterOffsetEnd':
+[{'336, 'pos': 'EX', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 2,
+[{''word': 'are', 'originalText': 'are', 'lemma': 'be', 'characterOffsetBegin':
+[{'337, 'characterOffsetEnd': 340, 'pos': 'VBP', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 3, 'word': 'also', 'originalText': 'also', 'lemma':
+[{''also', 'characterOffsetBegin': 341, 'characterOffsetEnd': 345, 'pos': 'RB',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'several',
+[{''originalText': 'several', 'lemma': 'several', 'characterOffsetBegin': 346,
+[{''characterOffsetEnd': 353, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 5, 'word': 'lakes', 'originalText': 'lakes', 'lemma': 'lake',
+[{''characterOffsetBegin': 354, 'characterOffsetEnd': 359, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'in', 'originalText':
+[{''in', 'lemma': 'in', 'characterOffsetBegin': 360, 'characterOffsetEnd': 362,
+[{''pos': 'IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 7, 'word':
+[{''Warsaw', 'originalText': 'Warsaw', 'lemma': 'Warsaw',
+[{''characterOffsetBegin': 363, 'characterOffsetEnd': 369, 'pos': 'NNP', 'ner':
+[{''CITY', 'before': ' ', 'after': ' '}, {'index': 8, 'word': '–',
+[{''originalText': '–', 'lemma': '–', 'characterOffsetBegin': 370,
+[{''characterOffsetEnd': 371, 'pos': 'SYM', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 9, 'word': 'mainly', 'originalText': 'mainly', 'lemma':
+[{''mainly', 'characterOffsetBegin': 372, 'characterOffsetEnd': 378, 'pos':
+[{''RB', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 379,
+[{''characterOffsetEnd': 382, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 11, 'word': 'oxbow', 'originalText': 'oxbow', 'lemma': 'oxbow',
+[{''characterOffsetBegin': 383, 'characterOffsetEnd': 388, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 12, 'word': 'lakes',
+[{''originalText': 'lakes', 'lemma': 'lake', 'characterOffsetBegin': 389,
+[{''characterOffsetEnd': 394, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 13, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 394, 'characterOffsetEnd': 395, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 14, 'word': 'like',
+[{''originalText': 'like', 'lemma': 'like', 'characterOffsetBegin': 396,
+[{''characterOffsetEnd': 400, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 15, 'word': 'Czerniaków', 'originalText': 'Czerniaków',
+[{''lemma': 'Czerniaków', 'characterOffsetBegin': 401, 'characterOffsetEnd':
+[{'411, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index':
+[{'16, 'word': 'Lake', 'originalText': 'Lake', 'lemma': 'Lake',
+[{''characterOffsetBegin': 412, 'characterOffsetEnd': 416, 'pos': 'NNP', 'ner':
+[{''LOCATION', 'before': ' ', 'after': ''}, {'index': 17, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 416,
+[{''characterOffsetEnd': 417, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 18, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 418, 'characterOffsetEnd': 421, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 19, 'word': 'lakes',
+[{''originalText': 'lakes', 'lemma': 'lake', 'characterOffsetBegin': 422,
+[{''characterOffsetEnd': 427, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 20, 'word': 'in', 'originalText': 'in', 'lemma': 'in',
+[{''characterOffsetBegin': 428, 'characterOffsetEnd': 430, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 21, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 431,
+[{''characterOffsetEnd': 434, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 22, 'word': 'Łazienki', 'originalText': 'Łazienki', 'lemma':
+[{''Łazienki', 'characterOffsetBegin': 435, 'characterOffsetEnd': 443, 'pos':
+[{''NNP', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 23, 'word': 'or',
+[{''originalText': 'or', 'lemma': 'or', 'characterOffsetBegin': 444,
+[{''characterOffsetEnd': 446, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 24, 'word': 'Wilanów', 'originalText': 'Wilanów', 'lemma':
+[{''Wilanów', 'characterOffsetBegin': 447, 'characterOffsetEnd': 454, 'pos':
+[{''NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 25, 'word':
+[{''Parks', 'originalText': 'Parks', 'lemma': 'Parks', 'characterOffsetBegin':
+[{'455, 'characterOffsetEnd': 460, 'pos': 'NNP', 'ner': 'LOCATION', 'before': '
+[{'', 'after': ''}, {'index': 26, 'word': ',', 'originalText': ',', 'lemma':
+[{'',', 'characterOffsetBegin': 460, 'characterOffsetEnd': 461, 'pos': ',',
+[{''ner': 'O', 'before': '', 'after': ' '}, {'index': 27, 'word': 'Kamionek',
+[{''originalText': 'Kamionek', 'lemma': 'Kamionek', 'characterOffsetBegin': 462,
+[{''characterOffsetEnd': 470, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ' '}, {'index': 28, 'word': 'Lake', 'originalText': 'Lake', 'lemma':
+[{''Lake', 'characterOffsetBegin': 471, 'characterOffsetEnd': 475, 'pos': 'NNP',
+[{''ner': 'LOCATION', 'before': ' ', 'after': ''}, {'index': 29, 'word': '.',
+[{''originalText': '.', 'lemma': '.', 'characterOffsetBegin': 475,
+[{''characterOffsetEnd': 476, 'pos': '.', 'ner': 'O', 'before': '', 'after': '
+[{''}]}, {'index': 3, 'entitymentions': docTokenBegin': 112, 'docTokenEnd': 113,
+[{''tokenBegin': 22, 'tokenEnd': 23, 'text': 'winter', 'characterOffsetBegin':
+[{'583, 'characterOffsetEnd': 589, 'ner': 'DATE', 'normalizedNER': 'XXXX-WI',
+[{''nerConfidences': {'DATE': 0.84175232641106}, 'timex': {'tid': 't1', 'type':
+[{''DATE', 'value': 'XXXX-WI'}}], 'tokens': index': 1, 'word': 'There',
+[{''originalText': 'There', 'lemma': 'there', 'characterOffsetBegin': 477,
+[{''characterOffsetEnd': 482, 'pos': 'EX', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 2, 'word': 'are', 'originalText': 'are', 'lemma': 'be',
+[{''characterOffsetBegin': 483, 'characterOffsetEnd': 486, 'pos': 'VBP', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 3, 'word': 'lot',
+[{''originalText': 'lot', 'lemma': 'lot', 'characterOffsetBegin': 487,
+[{''characterOffsetEnd': 490, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 4, 'word': 'of', 'originalText': 'of', 'lemma': 'of',
+[{''characterOffsetBegin': 491, 'characterOffsetEnd': 493, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 5, 'word': 'small',
+[{''originalText': 'small', 'lemma': 'small', 'characterOffsetBegin': 494,
+[{''characterOffsetEnd': 499, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 6, 'word': 'lakes', 'originalText': 'lakes', 'lemma': 'lake',
+[{''characterOffsetBegin': 500, 'characterOffsetEnd': 505, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 7, 'word': 'in', 'originalText':
+[{''in', 'lemma': 'in', 'characterOffsetBegin': 506, 'characterOffsetEnd': 508,
+[{''pos': 'IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 8, 'word':
+[{''the', 'originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 509,
+[{''characterOffsetEnd': 512, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 9, 'word': 'parks', 'originalText': 'parks', 'lemma': 'park',
+[{''characterOffsetBegin': 513, 'characterOffsetEnd': 518, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 10, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 518, 'characterOffsetEnd': 519,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 11, 'word':
+[{''but', 'originalText': 'but', 'lemma': 'but', 'characterOffsetBegin': 520,
+[{''characterOffsetEnd': 523, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 12, 'word': 'only', 'originalText': 'only', 'lemma': 'only',
+[{''characterOffsetBegin': 524, 'characterOffsetEnd': 528, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 13, 'word': 'a', 'originalText':
+[{''a', 'lemma': 'a', 'characterOffsetBegin': 529, 'characterOffsetEnd': 530,
+[{''pos': 'DT', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 14, 'word':
+[{''few', 'originalText': 'few', 'lemma': 'few', 'characterOffsetBegin': 531,
+[{''characterOffsetEnd': 534, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 15, 'word': 'are', 'originalText': 'are', 'lemma': 'be',
+[{''characterOffsetBegin': 535, 'characterOffsetEnd': 538, 'pos': 'VBP', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 16, 'word': 'permanent',
+[{''originalText': 'permanent', 'lemma': 'permanent', 'characterOffsetBegin':
+[{'539, 'characterOffsetEnd': 548, 'pos': 'JJ', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 17, 'word': '–', 'originalText': '–', 'lemma': '–',
+[{''characterOffsetBegin': 549, 'characterOffsetEnd': 550, 'pos': ':', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 18, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 551,
+[{''characterOffsetEnd': 554, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 19, 'word': 'majority', 'originalText': 'majority', 'lemma':
+[{''majority', 'characterOffsetBegin': 555, 'characterOffsetEnd': 563, 'pos':
+[{''NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 20, 'word': 'are',
+[{''originalText': 'are', 'lemma': 'be', 'characterOffsetBegin': 564,
+[{''characterOffsetEnd': 567, 'pos': 'VBP', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 21, 'word': 'emptied', 'originalText': 'emptied', 'lemma':
+[{''empty', 'characterOffsetBegin': 568, 'characterOffsetEnd': 575, 'pos':
+[{''VBN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 22, 'word':
+[{''before', 'originalText': 'before', 'lemma': 'before',
+[{''characterOffsetBegin': 576, 'characterOffsetEnd': 582, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 23, 'word': 'winter',
+[{''originalText': 'winter', 'lemma': 'winter', 'characterOffsetBegin': 583,
+[{''characterOffsetEnd': 589, 'pos': 'NN', 'ner': 'DATE', 'normalizedNER':
+[{''XXXX-WI', 'before': ' ', 'after': ' ', 'timex': {'tid': 't1', 'type':
+[{''DATE', 'value': 'XXXX-WI'}}, {'index': 24, 'word': 'to', 'originalText':
+[{''to', 'lemma': 'to', 'characterOffsetBegin': 590, 'characterOffsetEnd': 592,
+[{''pos': 'TO', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 25, 'word':
+[{''clean', 'originalText': 'clean', 'lemma': 'clean', 'characterOffsetBegin':
+[{'593, 'characterOffsetEnd': 598, 'pos': 'VB', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 26, 'word': 'them', 'originalText': 'them', 'lemma':
+[{''they', 'characterOffsetBegin': 599, 'characterOffsetEnd': 603, 'pos': 'PRP',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 27, 'word': 'of',
+[{''originalText': 'of', 'lemma': 'of', 'characterOffsetBegin': 604,
+[{''characterOffsetEnd': 606, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 28, 'word': 'plants', 'originalText': 'plants', 'lemma':
+[{''plant', 'characterOffsetBegin': 607, 'characterOffsetEnd': 613, 'pos':
+[{''NNS', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 29, 'word': 'and',
+[{''originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 614,
+[{''characterOffsetEnd': 617, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 30, 'word': 'sediments', 'originalText': 'sediments', 'lemma':
+[{''sediment', 'characterOffsetBegin': 618, 'characterOffsetEnd': 627, 'pos':
+[{''NNS', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 31, 'word': '.',
+[{''originalText': '.', 'lemma': '.', 'characterOffsetBegin': 627,
+[{''characterOffsetEnd': 628, 'pos': '.', 'ner': 'O', 'before': '', 'after':
+[{'''}]}]
+
+
+[{'index': 0, 'entitymentions': docTokenBegin': 1, 'docTokenEnd': 3,
+[{''tokenBegin': 1, 'tokenEnd': 3, 'text': 'Saxon Garden',
+[{''characterOffsetBegin': 4, 'characterOffsetEnd': 16, 'ner': 'LOCATION',
+[{''nerConfidences': {'LOCATION': 0.99082664722827}}, {'docTokenBegin': 8,
+[{''docTokenEnd': 9, 'tokenBegin': 8, 'tokenEnd': 9, 'text': '15.5',
+[{''characterOffsetBegin': 39, 'characterOffsetEnd': 43, 'ner': 'NUMBER',
+[{''normalizedNER': '15.5', 'nerConfidences': {'NUMBER': -1}}], 'tokens':
+[{'index': 1, 'word': 'The', 'originalText': 'The', 'lemma': 'the',
+[{''characterOffsetBegin': 0, 'characterOffsetEnd': 3, 'pos': 'DT', 'ner': 'O',
+[{''before': '', 'after': ' '}, {'index': 2, 'word': 'Saxon', 'originalText':
+[{''Saxon', 'lemma': 'Saxon', 'characterOffsetBegin': 4, 'characterOffsetEnd':
+[{'9, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index':
+[{'3, 'word': 'Garden', 'originalText': 'Garden', 'lemma': 'Garden',
+[{''characterOffsetBegin': 10, 'characterOffsetEnd': 16, 'pos': 'NNP', 'ner':
+[{''LOCATION', 'before': ' ', 'after': ''}, {'index': 4, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 16,
+[{''characterOffsetEnd': 17, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 5, 'word': 'covering', 'originalText': 'covering', 'lemma':
+[{''cover', 'characterOffsetBegin': 18, 'characterOffsetEnd': 26, 'pos': 'VBG',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 27,
+[{''characterOffsetEnd': 30, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 7, 'word': 'area', 'originalText': 'area', 'lemma': 'area',
+[{''characterOffsetBegin': 31, 'characterOffsetEnd': 35, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'of', 'originalText':
+[{''of', 'lemma': 'of', 'characterOffsetBegin': 36, 'characterOffsetEnd': 38,
+[{''pos': 'IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 9, 'word':
+[{''15.5', 'originalText': '15.5', 'lemma': '15.5', 'characterOffsetBegin': 39,
+[{''characterOffsetEnd': 43, 'pos': 'CD', 'ner': 'NUMBER', 'normalizedNER':
+[{''15.5', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'ha',
+[{''originalText': 'ha', 'lemma': 'ha', 'characterOffsetBegin': 44,
+[{''characterOffsetEnd': 46, 'pos': 'UH', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 11, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 46, 'characterOffsetEnd': 47, 'pos': ',', 'ner': 'O',
+[{''before': '', 'after': ' '}, {'index': 12, 'word': 'was', 'originalText':
+[{''was', 'lemma': 'be', 'characterOffsetBegin': 48, 'characterOffsetEnd': 51,
+[{''pos': 'VBD', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 13, 'word':
+[{''formally', 'originalText': 'formally', 'lemma': 'formally',
+[{''characterOffsetBegin': 52, 'characterOffsetEnd': 60, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 14, 'word': 'a', 'originalText':
+[{''a', 'lemma': 'a', 'characterOffsetBegin': 61, 'characterOffsetEnd': 62,
+[{''pos': 'DT', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 15, 'word':
+[{''royal', 'originalText': 'royal', 'lemma': 'royal', 'characterOffsetBegin':
+[{'63, 'characterOffsetEnd': 68, 'pos': 'JJ', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 16, 'word': 'garden', 'originalText': 'garden',
+[{''lemma': 'garden', 'characterOffsetBegin': 69, 'characterOffsetEnd': 75,
+[{''pos': 'NN', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 17, 'word':
+[{''.', 'originalText': '.', 'lemma': '.', 'characterOffsetBegin': 75,
+[{''characterOffsetEnd': 76, 'pos': '.', 'ner': 'O', 'before': '', 'after': '
+[{''}]}, {'index': 1, 'entitymentions': docTokenBegin': 20, 'docTokenEnd': 21,
+[{''tokenBegin': 3, 'tokenEnd': 4, 'text': '100', 'characterOffsetBegin': 92,
+[{''characterOffsetEnd': 95, 'ner': 'NUMBER', 'normalizedNER': '>100.0',
+[{''nerConfidences': {'NUMBER': -1}}], 'tokens': index': 1, 'word': 'There',
+[{''originalText': 'There', 'lemma': 'there', 'characterOffsetBegin': 77,
+[{''characterOffsetEnd': 82, 'pos': 'EX', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 2, 'word': 'are', 'originalText': 'are', 'lemma': 'be',
+[{''characterOffsetBegin': 83, 'characterOffsetEnd': 86, 'pos': 'VBP', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 3, 'word': 'over',
+[{''originalText': 'over', 'lemma': 'over', 'characterOffsetBegin': 87,
+[{''characterOffsetEnd': 91, 'pos': 'RB', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 4, 'word': '100', 'originalText': '100', 'lemma': '100',
+[{''characterOffsetBegin': 92, 'characterOffsetEnd': 95, 'pos': 'CD', 'ner':
+[{''NUMBER', 'normalizedNER': '>100.0', 'before': ' ', 'after': ' '}, {'index':
+[{'5, 'word': 'different', 'originalText': 'different', 'lemma': 'different',
+[{''characterOffsetBegin': 96, 'characterOffsetEnd': 105, 'pos': 'JJ', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'species',
+[{''originalText': 'species', 'lemma': 'species', 'characterOffsetBegin': 106,
+[{''characterOffsetEnd': 113, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 7, 'word': 'of', 'originalText': 'of', 'lemma': 'of',
+[{''characterOffsetBegin': 114, 'characterOffsetEnd': 116, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'trees',
+[{''originalText': 'trees', 'lemma': 'tree', 'characterOffsetBegin': 117,
+[{''characterOffsetEnd': 122, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 9, 'word': 'and', 'originalText': 'and', 'lemma': 'and',
+[{''characterOffsetBegin': 123, 'characterOffsetEnd': 126, 'pos': 'CC', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 127,
+[{''characterOffsetEnd': 130, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 11, 'word': 'avenues', 'originalText': 'avenues', 'lemma':
+[{''avenue', 'characterOffsetBegin': 131, 'characterOffsetEnd': 138, 'pos':
+[{''NNS', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 12, 'word': 'are',
+[{''originalText': 'are', 'lemma': 'be', 'characterOffsetBegin': 139,
+[{''characterOffsetEnd': 142, 'pos': 'VBP', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 13, 'word': 'a', 'originalText': 'a', 'lemma': 'a',
+[{''characterOffsetBegin': 143, 'characterOffsetEnd': 144, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 14, 'word': 'place',
+[{''originalText': 'place', 'lemma': 'place', 'characterOffsetBegin': 145,
+[{''characterOffsetEnd': 150, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 15, 'word': 'to', 'originalText': 'to', 'lemma': 'to',
+[{''characterOffsetBegin': 151, 'characterOffsetEnd': 153, 'pos': 'TO', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 16, 'word': 'sit',
+[{''originalText': 'sit', 'lemma': 'sit', 'characterOffsetBegin': 154,
+[{''characterOffsetEnd': 157, 'pos': 'VB', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 17, 'word': 'and', 'originalText': 'and', 'lemma': 'and',
+[{''characterOffsetBegin': 158, 'characterOffsetEnd': 161, 'pos': 'CC', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 18, 'word': 'relax',
+[{''originalText': 'relax', 'lemma': 'relax', 'characterOffsetBegin': 162,
+[{''characterOffsetEnd': 167, 'pos': 'VB', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 19, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 167, 'characterOffsetEnd': 168, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 2, 'entitymentions':
+[{'docTokenBegin': 45, 'docTokenEnd': 49, 'tokenBegin': 9, 'tokenEnd': 13,
+[{''text': 'Tomb of the Unknown', 'characterOffsetBegin': 202,
+[{''characterOffsetEnd': 221, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.91848288735134}}, {'docTokenBegin': 49, 'docTokenEnd': 50, 'tokenBegin':
+[{'13, 'tokenEnd': 14, 'text': 'Soldier', 'characterOffsetBegin': 222,
+[{''characterOffsetEnd': 229, 'ner': 'TITLE', 'nerConfidences': {'LOCATION':
+[{'0.85280155930729}}], 'tokens': index': 1, 'word': 'At', 'originalText': 'At',
+[{''lemma': 'at', 'characterOffsetBegin': 169, 'characterOffsetEnd': 171, 'pos':
+[{''IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 2, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 172,
+[{''characterOffsetEnd': 175, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 3, 'word': 'east', 'originalText': 'east', 'lemma': 'east',
+[{''characterOffsetBegin': 176, 'characterOffsetEnd': 180, 'pos': 'JJ', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'end',
+[{''originalText': 'end', 'lemma': 'end', 'characterOffsetBegin': 181,
+[{''characterOffsetEnd': 184, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 5, 'word': 'of', 'originalText': 'of', 'lemma': 'of',
+[{''characterOffsetBegin': 185, 'characterOffsetEnd': 187, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 188,
+[{''characterOffsetEnd': 191, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 7, 'word': 'park', 'originalText': 'park', 'lemma': 'park',
+[{''characterOffsetBegin': 192, 'characterOffsetEnd': 196, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 8, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 196, 'characterOffsetEnd': 197,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 9, 'word':
+[{''the', 'originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 198,
+[{''characterOffsetEnd': 201, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 10, 'word': 'Tomb', 'originalText': 'Tomb', 'lemma': 'Tomb',
+[{''characterOffsetBegin': 202, 'characterOffsetEnd': 206, 'pos': 'NNP', 'ner':
+[{''LOCATION', 'before': ' ', 'after': ' '}, {'index': 11, 'word': 'of',
+[{''originalText': 'of', 'lemma': 'of', 'characterOffsetBegin': 207,
+[{''characterOffsetEnd': 209, 'pos': 'IN', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ' '}, {'index': 12, 'word': 'the', 'originalText': 'the', 'lemma':
+[{''the', 'characterOffsetBegin': 210, 'characterOffsetEnd': 213, 'pos': 'DT',
+[{''ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 13, 'word':
+[{''Unknown', 'originalText': 'Unknown', 'lemma': 'unknown',
+[{''characterOffsetBegin': 214, 'characterOffsetEnd': 221, 'pos': 'JJ', 'ner':
+[{''LOCATION', 'before': ' ', 'after': ' '}, {'index': 14, 'word': 'Soldier',
+[{''originalText': 'Soldier', 'lemma': 'soldier', 'characterOffsetBegin': 222,
+[{''characterOffsetEnd': 229, 'pos': 'NN', 'ner': 'TITLE', 'before': ' ',
+[{''after': ' '}, {'index': 15, 'word': 'is', 'originalText': 'is', 'lemma':
+[{''be', 'characterOffsetBegin': 230, 'characterOffsetEnd': 232, 'pos': 'VBZ',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 16, 'word': 'situated',
+[{''originalText': 'situated', 'lemma': 'situate', 'characterOffsetBegin': 233,
+[{''characterOffsetEnd': 241, 'pos': 'VBN', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 17, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 241, 'characterOffsetEnd': 242, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 3, 'entitymentions':
+[{'docTokenBegin': 54, 'docTokenEnd': 57, 'tokenBegin': 1, 'tokenEnd': 4,
+[{''text': 'the 19th century', 'characterOffsetBegin': 246,
+[{''characterOffsetEnd': 262, 'ner': 'DATE', 'normalizedNER': '18XX',
+[{''nerConfidences': {'DATE': -1}, 'timex': {'tid': 't1', 'type': 'DATE',
+[{''value': '18XX'}}, {'docTokenBegin': 58, 'docTokenEnd': 61, 'tokenBegin': 5,
+[{''tokenEnd': 8, 'text': 'Krasiński Palace Garden', 'characterOffsetBegin':
+[{'267, 'characterOffsetEnd': 290, 'ner': 'LOCATION', 'nerConfidences':
+[{'{'LOCATION': 0.96256352782733}}, {'docTokenBegin': 64, 'docTokenEnd': 66,
+[{''tokenBegin': 11, 'tokenEnd': 13, 'text': 'Franciszek Szanior',
+[{''characterOffsetBegin': 309, 'characterOffsetEnd': 327, 'ner': 'PERSON',
+[{''nerConfidences': {'PERSON': 0.99922791728608}}], 'tokens': index': 1,
+[{''word': 'In', 'originalText': 'In', 'lemma': 'in', 'characterOffsetBegin':
+[{'243, 'characterOffsetEnd': 245, 'pos': 'IN', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 2, 'word': 'the', 'originalText': 'the', 'lemma':
+[{''the', 'characterOffsetBegin': 246, 'characterOffsetEnd': 249, 'pos': 'DT',
+[{''ner': 'DATE', 'normalizedNER': '18XX', 'before': ' ', 'after': ' ', 'timex':
+[{'{'tid': 't1', 'type': 'DATE', 'value': '18XX'}}, {'index': 3, 'word': '19th',
+[{''originalText': '19th', 'lemma': '19th', 'characterOffsetBegin': 250,
+[{''characterOffsetEnd': 254, 'pos': 'JJ', 'ner': 'DATE', 'normalizedNER':
+[{''18XX', 'before': ' ', 'after': ' ', 'timex': {'tid': 't1', 'type': 'DATE',
+[{''value': '18XX'}}, {'index': 4, 'word': 'century', 'originalText': 'century',
+[{''lemma': 'century', 'characterOffsetBegin': 255, 'characterOffsetEnd': 262,
+[{''pos': 'NN', 'ner': 'DATE', 'normalizedNER': '18XX', 'before': ' ', 'after':
+[{'' ', 'timex': {'tid': 't1', 'type': 'DATE', 'value': '18XX'}}, {'index': 5,
+[{''word': 'the', 'originalText': 'the', 'lemma': 'the', 'characterOffsetBegin':
+[{'263, 'characterOffsetEnd': 266, 'pos': 'DT', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 6, 'word': 'Krasiński', 'originalText': 'Krasiński',
+[{''lemma': 'Krasiński', 'characterOffsetBegin': 267, 'characterOffsetEnd': 276,
+[{''pos': 'NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 7,
+[{''word': 'Palace', 'originalText': 'Palace', 'lemma': 'Palace',
+[{''characterOffsetBegin': 277, 'characterOffsetEnd': 283, 'pos': 'NNP', 'ner':
+[{''LOCATION', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'Garden',
+[{''originalText': 'Garden', 'lemma': 'Garden', 'characterOffsetBegin': 284,
+[{''characterOffsetEnd': 290, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ' '}, {'index': 9, 'word': 'was', 'originalText': 'was', 'lemma':
+[{''be', 'characterOffsetBegin': 291, 'characterOffsetEnd': 294, 'pos': 'VBD',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'remodelled',
+[{''originalText': 'remodelled', 'lemma': 'remodel', 'characterOffsetBegin':
+[{'295, 'characterOffsetEnd': 305, 'pos': 'VBN', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 11, 'word': 'by', 'originalText': 'by', 'lemma':
+[{''by', 'characterOffsetBegin': 306, 'characterOffsetEnd': 308, 'pos': 'IN',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 12, 'word': 'Franciszek',
+[{''originalText': 'Franciszek', 'lemma': 'Franciszek', 'characterOffsetBegin':
+[{'309, 'characterOffsetEnd': 319, 'pos': 'NNP', 'ner': 'PERSON', 'before': ' ',
+[{''after': ' '}, {'index': 13, 'word': 'Szanior', 'originalText': 'Szanior',
+[{''lemma': 'Szanior', 'characterOffsetBegin': 320, 'characterOffsetEnd': 327,
+[{''pos': 'NNP', 'ner': 'PERSON', 'before': ' ', 'after': ''}, {'index': 14,
+[{''word': '.', 'originalText': '.', 'lemma': '.', 'characterOffsetBegin': 327,
+[{''characterOffsetEnd': 328, 'pos': '.', 'ner': 'O', 'before': '', 'after': '
+[{''}]}, {'index': 4, 'entitymentions': docTokenBegin': 74, 'docTokenEnd': 75,
+[{''tokenBegin': 7, 'tokenEnd': 8, 'text': 'one', 'characterOffsetBegin': 365,
+[{''characterOffsetEnd': 368, 'ner': 'NUMBER', 'normalizedNER': '1.0',
+[{''nerConfidences': {'NUMBER': -1}}, {'docTokenBegin': 91, 'docTokenEnd': 92,
+[{''tokenBegin': 24, 'tokenEnd': 25, 'text': 'Turkish', 'characterOffsetBegin':
+[{'450, 'characterOffsetEnd': 457, 'ner': 'NATIONALITY', 'nerConfidences':
+[{'{'MISC': 0.99997544078909}}, {'docTokenBegin': 94, 'docTokenEnd': 95,
+[{''tokenBegin': 27, 'tokenEnd': 28, 'text': 'Caucasian',
+[{''characterOffsetBegin': 468, 'characterOffsetEnd': 477, 'ner': 'MISC',
+[{''nerConfidences': {'MISC': 0.99583629424111}}], 'tokens': index': 1, 'word':
+[{''Within', 'originalText': 'Within', 'lemma': 'within',
+[{''characterOffsetBegin': 329, 'characterOffsetEnd': 335, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 2, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 336,
+[{''characterOffsetEnd': 339, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 3, 'word': 'central', 'originalText': 'central', 'lemma':
+[{''central', 'characterOffsetBegin': 340, 'characterOffsetEnd': 347, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'area',
+[{''originalText': 'area', 'lemma': 'area', 'characterOffsetBegin': 348,
+[{''characterOffsetEnd': 352, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 5, 'word': 'of', 'originalText': 'of', 'lemma': 'of',
+[{''characterOffsetBegin': 353, 'characterOffsetEnd': 355, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 356,
+[{''characterOffsetEnd': 359, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 7, 'word': 'park', 'originalText': 'park', 'lemma': 'park',
+[{''characterOffsetBegin': 360, 'characterOffsetEnd': 364, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'one',
+[{''originalText': 'one', 'lemma': 'one', 'characterOffsetBegin': 365,
+[{''characterOffsetEnd': 368, 'pos': 'NN', 'ner': 'NUMBER', 'normalizedNER':
+[{''1.0', 'before': ' ', 'after': ' '}, {'index': 9, 'word': 'can',
+[{''originalText': 'can', 'lemma': 'can', 'characterOffsetBegin': 369,
+[{''characterOffsetEnd': 372, 'pos': 'MD', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 10, 'word': 'still', 'originalText': 'still', 'lemma': 'still',
+[{''characterOffsetBegin': 373, 'characterOffsetEnd': 378, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 11, 'word': 'find',
+[{''originalText': 'find', 'lemma': 'find', 'characterOffsetBegin': 379,
+[{''characterOffsetEnd': 383, 'pos': 'VB', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 12, 'word': 'old', 'originalText': 'old', 'lemma': 'old',
+[{''characterOffsetBegin': 384, 'characterOffsetEnd': 387, 'pos': 'JJ', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 13, 'word': 'trees',
+[{''originalText': 'trees', 'lemma': 'tree', 'characterOffsetBegin': 388,
+[{''characterOffsetEnd': 393, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 14, 'word': 'dating', 'originalText': 'dating', 'lemma':
+[{''date', 'characterOffsetBegin': 394, 'characterOffsetEnd': 400, 'pos': 'VBG',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 15, 'word': 'from',
+[{''originalText': 'from', 'lemma': 'from', 'characterOffsetBegin': 401,
+[{''characterOffsetEnd': 405, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 16, 'word': 'that', 'originalText': 'that', 'lemma': 'that',
+[{''characterOffsetBegin': 406, 'characterOffsetEnd': 410, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 17, 'word': 'period',
+[{''originalText': 'period', 'lemma': 'period', 'characterOffsetBegin': 411,
+[{''characterOffsetEnd': 417, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 18, 'word': ':', 'originalText': ':', 'lemma': ':',
+[{''characterOffsetBegin': 417, 'characterOffsetEnd': 418, 'pos': ':', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 19, 'word': 'maidenhair',
+[{''originalText': 'maidenhair', 'lemma': 'maidenhair', 'characterOffsetBegin':
+[{'419, 'characterOffsetEnd': 429, 'pos': 'NN', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 20, 'word': 'tree', 'originalText': 'tree', 'lemma':
+[{''tree', 'characterOffsetBegin': 430, 'characterOffsetEnd': 434, 'pos': 'NN',
+[{''ner': 'O', 'before': ' ', 'after': ''}, {'index': 21, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 434,
+[{''characterOffsetEnd': 435, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 22, 'word': 'black', 'originalText': 'black', 'lemma': 'black',
+[{''characterOffsetBegin': 436, 'characterOffsetEnd': 441, 'pos': 'JJ', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 23, 'word': 'walnut',
+[{''originalText': 'walnut', 'lemma': 'walnut', 'characterOffsetBegin': 442,
+[{''characterOffsetEnd': 448, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 24, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 448, 'characterOffsetEnd': 449, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 25, 'word': 'Turkish',
+[{''originalText': 'Turkish', 'lemma': 'turkish', 'characterOffsetBegin': 450,
+[{''characterOffsetEnd': 457, 'pos': 'JJ', 'ner': 'NATIONALITY', 'before': ' ',
+[{''after': ' '}, {'index': 26, 'word': 'hazel', 'originalText': 'hazel',
+[{''lemma': 'hazel', 'characterOffsetBegin': 458, 'characterOffsetEnd': 463,
+[{''pos': 'NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 27, 'word':
+[{''and', 'originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 464,
+[{''characterOffsetEnd': 467, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 28, 'word': 'Caucasian', 'originalText': 'Caucasian', 'lemma':
+[{''caucasian', 'characterOffsetBegin': 468, 'characterOffsetEnd': 477, 'pos':
+[{''JJ', 'ner': 'MISC', 'before': ' ', 'after': ' '}, {'index': 29, 'word':
+[{''wingnut', 'originalText': 'wingnut', 'lemma': 'wingnut',
+[{''characterOffsetBegin': 478, 'characterOffsetEnd': 485, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 30, 'word': 'trees',
+[{''originalText': 'trees', 'lemma': 'tree', 'characterOffsetBegin': 486,
+[{''characterOffsetEnd': 491, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 31, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 491, 'characterOffsetEnd': 492, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 5, 'entitymentions':
+[{'docTokenBegin': 117, 'docTokenEnd': 120, 'tokenBegin': 19, 'tokenEnd': 22,
+[{''text': 'Krasiński Palace Garden', 'characterOffsetBegin': 579,
+[{''characterOffsetEnd': 602, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.9203312309878}}, {'docTokenBegin': 127, 'docTokenEnd': 128, 'tokenBegin':
+[{'29, 'tokenEnd': 30, 'text': 'Varsovians', 'characterOffsetBegin': 646,
+[{''characterOffsetEnd': 656, 'ner': 'MISC', 'nerConfidences': {'MISC':
+[{'0.82507276936218}}], 'tokens': index': 1, 'word': 'With', 'originalText':
+[{''With', 'lemma': 'with', 'characterOffsetBegin': 493, 'characterOffsetEnd':
+[{'497, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 2,
+[{''word': 'its', 'originalText': 'its', 'lemma': 'its', 'characterOffsetBegin':
+[{'498, 'characterOffsetEnd': 501, 'pos': 'PRP$', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 3, 'word': 'benches', 'originalText': 'benches',
+[{''lemma': 'bench', 'characterOffsetBegin': 502, 'characterOffsetEnd': 509,
+[{''pos': 'NNS', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 4, 'word':
+[{'',', 'originalText': ',', 'lemma': ',', 'characterOffsetBegin': 509,
+[{''characterOffsetEnd': 510, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 5, 'word': 'flower', 'originalText': 'flower', 'lemma':
+[{''flower', 'characterOffsetBegin': 511, 'characterOffsetEnd': 517, 'pos':
+[{''NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 6, 'word':
+[{''carpets', 'originalText': 'carpets', 'lemma': 'carpet',
+[{''characterOffsetBegin': 518, 'characterOffsetEnd': 525, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 7, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 525, 'characterOffsetEnd': 526,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 8, 'word':
+[{''a', 'originalText': 'a', 'lemma': 'a', 'characterOffsetBegin': 527,
+[{''characterOffsetEnd': 528, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 9, 'word': 'pond', 'originalText': 'pond', 'lemma': 'pond',
+[{''characterOffsetBegin': 529, 'characterOffsetEnd': 533, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'with',
+[{''originalText': 'with', 'lemma': 'with', 'characterOffsetBegin': 534,
+[{''characterOffsetEnd': 538, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 11, 'word': 'ducks', 'originalText': 'ducks', 'lemma': 'duck',
+[{''characterOffsetBegin': 539, 'characterOffsetEnd': 544, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 12, 'word': 'on',
+[{''originalText': 'on', 'lemma': 'on', 'characterOffsetBegin': 545,
+[{''characterOffsetEnd': 547, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 13, 'word': 'and', 'originalText': 'and', 'lemma': 'and',
+[{''characterOffsetBegin': 548, 'characterOffsetEnd': 551, 'pos': 'CC', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 14, 'word': 'a', 'originalText':
+[{''a', 'lemma': 'a', 'characterOffsetBegin': 552, 'characterOffsetEnd': 553,
+[{''pos': 'DT', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 15, 'word':
+[{''playground', 'originalText': 'playground', 'lemma': 'playground',
+[{''characterOffsetBegin': 554, 'characterOffsetEnd': 564, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 16, 'word': 'for',
+[{''originalText': 'for', 'lemma': 'for', 'characterOffsetBegin': 565,
+[{''characterOffsetEnd': 568, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 17, 'word': 'kids', 'originalText': 'kids', 'lemma': 'kid',
+[{''characterOffsetBegin': 569, 'characterOffsetEnd': 573, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 18, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 573, 'characterOffsetEnd': 574,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 19, 'word':
+[{''the', 'originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 575,
+[{''characterOffsetEnd': 578, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 20, 'word': 'Krasiński', 'originalText': 'Krasiński', 'lemma':
+[{''Krasiński', 'characterOffsetBegin': 579, 'characterOffsetEnd': 588, 'pos':
+[{''NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 21, 'word':
+[{''Palace', 'originalText': 'Palace', 'lemma': 'Palace',
+[{''characterOffsetBegin': 589, 'characterOffsetEnd': 595, 'pos': 'NNP', 'ner':
+[{''LOCATION', 'before': ' ', 'after': ' '}, {'index': 22, 'word': 'Garden',
+[{''originalText': 'Garden', 'lemma': 'Garden', 'characterOffsetBegin': 596,
+[{''characterOffsetEnd': 602, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ' '}, {'index': 23, 'word': 'is', 'originalText': 'is', 'lemma':
+[{''be', 'characterOffsetBegin': 603, 'characterOffsetEnd': 605, 'pos': 'VBZ',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 24, 'word': 'a',
+[{''originalText': 'a', 'lemma': 'a', 'characterOffsetBegin': 606,
+[{''characterOffsetEnd': 607, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 25, 'word': 'popular', 'originalText': 'popular', 'lemma':
+[{''popular', 'characterOffsetBegin': 608, 'characterOffsetEnd': 615, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 26, 'word':
+[{''strolling', 'originalText': 'strolling', 'lemma': 'stroll',
+[{''characterOffsetBegin': 616, 'characterOffsetEnd': 625, 'pos': 'VBG', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 27, 'word': 'destination',
+[{''originalText': 'destination', 'lemma': 'destination',
+[{''characterOffsetBegin': 626, 'characterOffsetEnd': 637, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 28, 'word': 'for',
+[{''originalText': 'for', 'lemma': 'for', 'characterOffsetBegin': 638,
+[{''characterOffsetEnd': 641, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 29, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 642, 'characterOffsetEnd': 645, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 30, 'word': 'Varsovians',
+[{''originalText': 'Varsovians', 'lemma': 'Varsovians', 'characterOffsetBegin':
+[{'646, 'characterOffsetEnd': 656, 'pos': 'NNPS', 'ner': 'MISC', 'before': ' ',
+[{''after': ''}, {'index': 31, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 656, 'characterOffsetEnd': 657, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 6, 'entitymentions':
+[{'docTokenBegin': 133, 'docTokenEnd': 136, 'tokenBegin': 4, 'tokenEnd': 7,
+[{''text': 'Warsaw Ghetto Uprising', 'characterOffsetBegin': 678,
+[{''characterOffsetEnd': 700, 'ner': 'ORGANIZATION', 'nerConfidences':
+[{'{'ORGANIZATION': 0.54506832210472}}], 'tokens': index': 1, 'word': 'The',
+[{''originalText': 'The', 'lemma': 'the', 'characterOffsetBegin': 658,
+[{''characterOffsetEnd': 661, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 2, 'word': 'Monument', 'originalText': 'Monument', 'lemma':
+[{''Monument', 'characterOffsetBegin': 662, 'characterOffsetEnd': 670, 'pos':
+[{''NNP', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 3, 'word': 'of',
+[{''originalText': 'of', 'lemma': 'of', 'characterOffsetBegin': 671,
+[{''characterOffsetEnd': 673, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 4, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 674, 'characterOffsetEnd': 677, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 5, 'word': 'Warsaw',
+[{''originalText': 'Warsaw', 'lemma': 'Warsaw', 'characterOffsetBegin': 678,
+[{''characterOffsetEnd': 684, 'pos': 'NNP', 'ner': 'ORGANIZATION', 'before': '
+[{'', 'after': ' '}, {'index': 6, 'word': 'Ghetto', 'originalText': 'Ghetto',
+[{''lemma': 'Ghetto', 'characterOffsetBegin': 685, 'characterOffsetEnd': 691,
+[{''pos': 'NNP', 'ner': 'ORGANIZATION', 'before': ' ', 'after': ' '}, {'index':
+[{'7, 'word': 'Uprising', 'originalText': 'Uprising', 'lemma': 'Uprising',
+[{''characterOffsetBegin': 692, 'characterOffsetEnd': 700, 'pos': 'NNP', 'ner':
+[{''ORGANIZATION', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'is',
+[{''originalText': 'is', 'lemma': 'be', 'characterOffsetBegin': 701,
+[{''characterOffsetEnd': 703, 'pos': 'VBZ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 9, 'word': 'also', 'originalText': 'also', 'lemma': 'also',
+[{''characterOffsetBegin': 704, 'characterOffsetEnd': 708, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'situated',
+[{''originalText': 'situated', 'lemma': 'situate', 'characterOffsetBegin': 709,
+[{''characterOffsetEnd': 717, 'pos': 'VBN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 11, 'word': 'here', 'originalText': 'here', 'lemma': 'here',
+[{''characterOffsetBegin': 718, 'characterOffsetEnd': 722, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 12, 'word': '.', 'originalText':
+[{''.', 'lemma': '.', 'characterOffsetBegin': 722, 'characterOffsetEnd': 723,
+[{''pos': '.', 'ner': 'O', 'before': '', 'after': ' '}]}, {'index': 7,
+[{''entitymentions': docTokenBegin': 142, 'docTokenEnd': 144, 'tokenBegin': 1,
+[{''tokenEnd': 3, 'text': 'Łazienki Park', 'characterOffsetBegin': 728,
+[{''characterOffsetEnd': 741, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.69418924613352}}, {'docTokenBegin': 148, 'docTokenEnd': 149, 'tokenBegin':
+[{'7, 'tokenEnd': 8, 'text': '76', 'characterOffsetBegin': 761,
+[{''characterOffsetEnd': 763, 'ner': 'NUMBER', 'normalizedNER': '76.0',
+[{''nerConfidences': {'NUMBER': -1}}], 'tokens': index': 1, 'word': 'The',
+[{''originalText': 'The', 'lemma': 'the', 'characterOffsetBegin': 724,
+[{''characterOffsetEnd': 727, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 2, 'word': 'Łazienki', 'originalText': 'Łazienki', 'lemma':
+[{''Łazienki', 'characterOffsetBegin': 728, 'characterOffsetEnd': 736, 'pos':
+[{''NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 3, 'word':
+[{''Park', 'originalText': 'Park', 'lemma': 'Park', 'characterOffsetBegin': 737,
+[{''characterOffsetEnd': 741, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ' '}, {'index': 4, 'word': 'covers', 'originalText': 'covers',
+[{''lemma': 'cover', 'characterOffsetBegin': 742, 'characterOffsetEnd': 748,
+[{''pos': 'VBZ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 5, 'word':
+[{''the', 'originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 749,
+[{''characterOffsetEnd': 752, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 6, 'word': 'area', 'originalText': 'area', 'lemma': 'area',
+[{''characterOffsetBegin': 753, 'characterOffsetEnd': 757, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 7, 'word': 'of', 'originalText':
+[{''of', 'lemma': 'of', 'characterOffsetBegin': 758, 'characterOffsetEnd': 760,
+[{''pos': 'IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 8, 'word':
+[{''76', 'originalText': '76', 'lemma': '76', 'characterOffsetBegin': 761,
+[{''characterOffsetEnd': 763, 'pos': 'CD', 'ner': 'NUMBER', 'normalizedNER':
+[{''76.0', 'before': ' ', 'after': ' '}, {'index': 9, 'word': 'ha',
+[{''originalText': 'ha', 'lemma': 'ha', 'characterOffsetBegin': 764,
+[{''characterOffsetEnd': 766, 'pos': 'UH', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 10, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 766, 'characterOffsetEnd': 767, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 8, 'entitymentions': [],
+[{''tokens': index': 1, 'word': 'The', 'originalText': 'The', 'lemma': 'the',
+[{''characterOffsetBegin': 768, 'characterOffsetEnd': 771, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 2, 'word': 'unique',
+[{''originalText': 'unique', 'lemma': 'unique', 'characterOffsetBegin': 772,
+[{''characterOffsetEnd': 778, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 3, 'word': 'character', 'originalText': 'character', 'lemma':
+[{''character', 'characterOffsetBegin': 779, 'characterOffsetEnd': 788, 'pos':
+[{''NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'and',
+[{''originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 789,
+[{''characterOffsetEnd': 792, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 5, 'word': 'history', 'originalText': 'history', 'lemma':
+[{''history', 'characterOffsetBegin': 793, 'characterOffsetEnd': 800, 'pos':
+[{''NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'of',
+[{''originalText': 'of', 'lemma': 'of', 'characterOffsetBegin': 801,
+[{''characterOffsetEnd': 803, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 7, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 804, 'characterOffsetEnd': 807, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'park',
+[{''originalText': 'park', 'lemma': 'park', 'characterOffsetBegin': 808,
+[{''characterOffsetEnd': 812, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 9, 'word': 'is', 'originalText': 'is', 'lemma': 'be',
+[{''characterOffsetBegin': 813, 'characterOffsetEnd': 815, 'pos': 'VBZ', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'reflected',
+[{''originalText': 'reflected', 'lemma': 'reflect', 'characterOffsetBegin': 816,
+[{''characterOffsetEnd': 825, 'pos': 'VBN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 11, 'word': 'in', 'originalText': 'in', 'lemma': 'in',
+[{''characterOffsetBegin': 826, 'characterOffsetEnd': 828, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 12, 'word': 'its',
+[{''originalText': 'its', 'lemma': 'its', 'characterOffsetBegin': 829,
+[{''characterOffsetEnd': 832, 'pos': 'PRP$', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 13, 'word': 'landscape', 'originalText': 'landscape',
+[{''lemma': 'landscape', 'characterOffsetBegin': 833, 'characterOffsetEnd': 842,
+[{''pos': 'NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 14, 'word':
+[{''architecture', 'originalText': 'architecture', 'lemma': 'architecture',
+[{''characterOffsetBegin': 843, 'characterOffsetEnd': 855, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 15, 'word': '(', 'originalText':
+[{''(', 'lemma': '(', 'characterOffsetBegin': 856, 'characterOffsetEnd': 857,
+[{''pos': '-LRB-', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 16,
+[{''word': 'pavilions', 'originalText': 'pavilions', 'lemma': 'pavilion',
+[{''characterOffsetBegin': 857, 'characterOffsetEnd': 866, 'pos': 'NNS', 'ner':
+[{''O', 'before': '', 'after': ''}, {'index': 17, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 866, 'characterOffsetEnd': 867,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 18, 'word':
+[{''sculptures', 'originalText': 'sculptures', 'lemma': 'sculpture',
+[{''characterOffsetBegin': 868, 'characterOffsetEnd': 878, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 19, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 878, 'characterOffsetEnd': 879,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 20, 'word':
+[{''bridges', 'originalText': 'bridges', 'lemma': 'bridge',
+[{''characterOffsetBegin': 880, 'characterOffsetEnd': 887, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 21, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 887, 'characterOffsetEnd': 888,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 22, 'word':
+[{''cascades', 'originalText': 'cascades', 'lemma': 'cascade',
+[{''characterOffsetBegin': 889, 'characterOffsetEnd': 897, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 23, 'word': ',', 'originalText':
+[{'',', 'lemma': ',', 'characterOffsetBegin': 897, 'characterOffsetEnd': 898,
+[{''pos': ',', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 24, 'word':
+[{''ponds', 'originalText': 'ponds', 'lemma': 'pond', 'characterOffsetBegin':
+[{'899, 'characterOffsetEnd': 904, 'pos': 'NNS', 'ner': 'O', 'before': ' ',
+[{''after': ''}, {'index': 25, 'word': ')', 'originalText': ')', 'lemma': ')',
+[{''characterOffsetBegin': 904, 'characterOffsetEnd': 905, 'pos': '-RRB-',
+[{''ner': 'O', 'before': '', 'after': ' '}, {'index': 26, 'word': 'and',
+[{''originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 906,
+[{''characterOffsetEnd': 909, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 27, 'word': 'vegetation', 'originalText': 'vegetation',
+[{''lemma': 'vegetation', 'characterOffsetBegin': 910, 'characterOffsetEnd':
+[{'920, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 28,
+[{''word': '(', 'originalText': '(', 'lemma': '(', 'characterOffsetBegin': 921,
+[{''characterOffsetEnd': 922, 'pos': '-LRB-', 'ner': 'O', 'before': ' ',
+[{''after': ''}, {'index': 29, 'word': 'domestic', 'originalText': 'domestic',
+[{''lemma': 'domestic', 'characterOffsetBegin': 922, 'characterOffsetEnd': 930,
+[{''pos': 'JJ', 'ner': 'O', 'before': '', 'after': ' '}, {'index': 30, 'word':
+[{''and', 'originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 931,
+[{''characterOffsetEnd': 934, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 31, 'word': 'foreign', 'originalText': 'foreign', 'lemma':
+[{''foreign', 'characterOffsetBegin': 935, 'characterOffsetEnd': 942, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 32, 'word':
+[{''species', 'originalText': 'species', 'lemma': 'species',
+[{''characterOffsetBegin': 943, 'characterOffsetEnd': 950, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 33, 'word': 'of',
+[{''originalText': 'of', 'lemma': 'of', 'characterOffsetBegin': 951,
+[{''characterOffsetEnd': 953, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 34, 'word': 'trees', 'originalText': 'trees', 'lemma': 'tree',
+[{''characterOffsetBegin': 954, 'characterOffsetEnd': 959, 'pos': 'NNS', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 35, 'word': 'and',
+[{''originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 960,
+[{''characterOffsetEnd': 963, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 36, 'word': 'bushes', 'originalText': 'bushes', 'lemma':
+[{''bush', 'characterOffsetBegin': 964, 'characterOffsetEnd': 970, 'pos': 'NNS',
+[{''ner': 'O', 'before': ' ', 'after': ''}, {'index': 37, 'word': ')',
+[{''originalText': ')', 'lemma': ')', 'characterOffsetBegin': 970,
+[{''characterOffsetEnd': 971, 'pos': '-RRB-', 'ner': 'O', 'before': '', 'after':
+[{'''}, {'index': 38, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 971, 'characterOffsetEnd': 972, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 9, 'entitymentions':
+[{'docTokenBegin': 199, 'docTokenEnd': 200, 'tokenBegin': 10, 'tokenEnd': 11,
+[{''text': 'Warsaw', 'characterOffsetBegin': 1031, 'characterOffsetEnd': 1037,
+[{''ner': 'CITY', 'nerConfidences': {'LOCATION': 0.99974628453201}}], 'tokens':
+[{'index': 1, 'word': 'What', 'originalText': 'What', 'lemma': 'what',
+[{''characterOffsetBegin': 973, 'characterOffsetEnd': 977, 'pos': 'WP', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 2, 'word': 'makes',
+[{''originalText': 'makes', 'lemma': 'make', 'characterOffsetBegin': 978,
+[{''characterOffsetEnd': 983, 'pos': 'VBZ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 3, 'word': 'this', 'originalText': 'this', 'lemma': 'this',
+[{''characterOffsetBegin': 984, 'characterOffsetEnd': 988, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'park',
+[{''originalText': 'park', 'lemma': 'park', 'characterOffsetBegin': 989,
+[{''characterOffsetEnd': 993, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': '
+[{''}, {'index': 5, 'word': 'different', 'originalText': 'different', 'lemma':
+[{''different', 'characterOffsetBegin': 994, 'characterOffsetEnd': 1003, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'from',
+[{''originalText': 'from', 'lemma': 'from', 'characterOffsetBegin': 1004,
+[{''characterOffsetEnd': 1008, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 7, 'word': 'other', 'originalText': 'other', 'lemma':
+[{''other', 'characterOffsetBegin': 1009, 'characterOffsetEnd': 1014, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'green',
+[{''originalText': 'green', 'lemma': 'green', 'characterOffsetBegin': 1015,
+[{''characterOffsetEnd': 1020, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 9, 'word': 'spaces', 'originalText': 'spaces', 'lemma':
+[{''space', 'characterOffsetBegin': 1021, 'characterOffsetEnd': 1027, 'pos':
+[{''NNS', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'in',
+[{''originalText': 'in', 'lemma': 'in', 'characterOffsetBegin': 1028,
+[{''characterOffsetEnd': 1030, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 11, 'word': 'Warsaw', 'originalText': 'Warsaw', 'lemma':
+[{''Warsaw', 'characterOffsetBegin': 1031, 'characterOffsetEnd': 1037, 'pos':
+[{''NNP', 'ner': 'CITY', 'before': ' ', 'after': ' '}, {'index': 12, 'word':
+[{''is', 'originalText': 'is', 'lemma': 'be', 'characterOffsetBegin': 1038,
+[{''characterOffsetEnd': 1040, 'pos': 'VBZ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 13, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 1041, 'characterOffsetEnd': 1044, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 14, 'word': 'presence',
+[{''originalText': 'presence', 'lemma': 'presence', 'characterOffsetBegin':
+[{'1045, 'characterOffsetEnd': 1053, 'pos': 'NN', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 15, 'word': 'of', 'originalText': 'of', 'lemma':
+[{''of', 'characterOffsetBegin': 1054, 'characterOffsetEnd': 1056, 'pos': 'IN',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 16, 'word': 'peacocks',
+[{''originalText': 'peacocks', 'lemma': 'peacock', 'characterOffsetBegin': 1057,
+[{''characterOffsetEnd': 1065, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 17, 'word': 'and', 'originalText': 'and', 'lemma': 'and',
+[{''characterOffsetBegin': 1066, 'characterOffsetEnd': 1069, 'pos': 'CC', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 18, 'word': 'pheasants',
+[{''originalText': 'pheasants', 'lemma': 'pheasant', 'characterOffsetBegin':
+[{'1070, 'characterOffsetEnd': 1079, 'pos': 'NNS', 'ner': 'O', 'before': ' ',
+[{''after': ''}, {'index': 19, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 1079, 'characterOffsetEnd': 1080, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 20, 'word': 'which',
+[{''originalText': 'which', 'lemma': 'which', 'characterOffsetBegin': 1081,
+[{''characterOffsetEnd': 1086, 'pos': 'WDT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 21, 'word': 'can', 'originalText': 'can', 'lemma': 'can',
+[{''characterOffsetBegin': 1087, 'characterOffsetEnd': 1090, 'pos': 'MD', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 22, 'word': 'be',
+[{''originalText': 'be', 'lemma': 'be', 'characterOffsetBegin': 1091,
+[{''characterOffsetEnd': 1093, 'pos': 'VB', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 23, 'word': 'seen', 'originalText': 'seen', 'lemma': 'see',
+[{''characterOffsetBegin': 1094, 'characterOffsetEnd': 1098, 'pos': 'VBN',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 24, 'word': 'here',
+[{''originalText': 'here', 'lemma': 'here', 'characterOffsetBegin': 1099,
+[{''characterOffsetEnd': 1103, 'pos': 'RB', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 25, 'word': 'walking', 'originalText': 'walking', 'lemma':
+[{''walk', 'characterOffsetBegin': 1104, 'characterOffsetEnd': 1111, 'pos':
+[{''VBG', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 26, 'word':
+[{''around', 'originalText': 'around', 'lemma': 'around',
+[{''characterOffsetBegin': 1112, 'characterOffsetEnd': 1118, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 27, 'word': 'freely',
+[{''originalText': 'freely', 'lemma': 'freely', 'characterOffsetBegin': 1119,
+[{''characterOffsetEnd': 1125, 'pos': 'RB', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 28, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 1125, 'characterOffsetEnd': 1126, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 29, 'word': 'and',
+[{''originalText': 'and', 'lemma': 'and', 'characterOffsetBegin': 1127,
+[{''characterOffsetEnd': 1130, 'pos': 'CC', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 30, 'word': 'royal', 'originalText': 'royal', 'lemma':
+[{''royal', 'characterOffsetBegin': 1131, 'characterOffsetEnd': 1136, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 31, 'word':
+[{''carps', 'originalText': 'carps', 'lemma': 'carp', 'characterOffsetBegin':
+[{'1137, 'characterOffsetEnd': 1142, 'pos': 'NNS', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 32, 'word': 'in', 'originalText': 'in', 'lemma':
+[{''in', 'characterOffsetBegin': 1143, 'characterOffsetEnd': 1145, 'pos': 'IN',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 33, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1146,
+[{''characterOffsetEnd': 1149, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 34, 'word': 'pond', 'originalText': 'pond', 'lemma': 'pond',
+[{''characterOffsetBegin': 1150, 'characterOffsetEnd': 1154, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ''}, {'index': 35, 'word': '.', 'originalText':
+[{''.', 'lemma': '.', 'characterOffsetBegin': 1154, 'characterOffsetEnd': 1155,
+[{''pos': '.', 'ner': 'O', 'before': '', 'after': ' '}]}, {'index': 10,
+[{''entitymentions': docTokenBegin': 225, 'docTokenEnd': 228, 'tokenBegin': 1,
+[{''tokenEnd': 4, 'text': 'Wilanów Palace Park', 'characterOffsetBegin': 1160,
+[{''characterOffsetEnd': 1179, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.98758911577068}}, {'docTokenBegin': 232, 'docTokenEnd': 239, 'tokenBegin':
+[{'8, 'tokenEnd': 15, 'text': 'the second half of the 17th century',
+[{''characterOffsetBegin': 1195, 'characterOffsetEnd': 1230, 'ner': 'DATE',
+[{''normalizedNER': '16XX', 'nerConfidences': {'DATE': -1}, 'timex': {'tid':
+[{''t2', 'type': 'DATE', 'value': '16XX'}}], 'tokens': index': 1, 'word': 'The',
+[{''originalText': 'The', 'lemma': 'the', 'characterOffsetBegin': 1156,
+[{''characterOffsetEnd': 1159, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 2, 'word': 'Wilanów', 'originalText': 'Wilanów', 'lemma':
+[{''Wilanów', 'characterOffsetBegin': 1160, 'characterOffsetEnd': 1167, 'pos':
+[{''NNP', 'ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 3, 'word':
+[{''Palace', 'originalText': 'Palace', 'lemma': 'Palace',
+[{''characterOffsetBegin': 1168, 'characterOffsetEnd': 1174, 'pos': 'NNP',
+[{''ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'Park',
+[{''originalText': 'Park', 'lemma': 'Park', 'characterOffsetBegin': 1175,
+[{''characterOffsetEnd': 1179, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ''}, {'index': 5, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 1179, 'characterOffsetEnd': 1180, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 6, 'word': 'dates',
+[{''originalText': 'dates', 'lemma': 'date', 'characterOffsetBegin': 1181,
+[{''characterOffsetEnd': 1186, 'pos': 'VBZ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 7, 'word': 'back', 'originalText': 'back', 'lemma': 'back',
+[{''characterOffsetBegin': 1187, 'characterOffsetEnd': 1191, 'pos': 'RB', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'to', 'originalText':
+[{''to', 'lemma': 'to', 'characterOffsetBegin': 1192, 'characterOffsetEnd':
+[{'1194, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 9,
+[{''word': 'the', 'originalText': 'the', 'lemma': 'the', 'characterOffsetBegin':
+[{'1195, 'characterOffsetEnd': 1198, 'pos': 'DT', 'ner': 'DATE',
+[{''normalizedNER': '16XX', 'before': ' ', 'after': ' ', 'timex': {'tid': 't2',
+[{''type': 'DATE', 'value': '16XX'}}, {'index': 10, 'word': 'second',
+[{''originalText': 'second', 'lemma': 'second', 'characterOffsetBegin': 1199,
+[{''characterOffsetEnd': 1205, 'pos': 'JJ', 'ner': 'DATE', 'normalizedNER':
+[{''16XX', 'before': ' ', 'after': ' ', 'timex': {'tid': 't2', 'type': 'DATE',
+[{''value': '16XX'}}, {'index': 11, 'word': 'half', 'originalText': 'half',
+[{''lemma': 'half', 'characterOffsetBegin': 1206, 'characterOffsetEnd': 1210,
+[{''pos': 'NN', 'ner': 'DATE', 'normalizedNER': '16XX', 'before': ' ', 'after':
+[{'' ', 'timex': {'tid': 't2', 'type': 'DATE', 'value': '16XX'}}, {'index': 12,
+[{''word': 'of', 'originalText': 'of', 'lemma': 'of', 'characterOffsetBegin':
+[{'1211, 'characterOffsetEnd': 1213, 'pos': 'IN', 'ner': 'DATE',
+[{''normalizedNER': '16XX', 'before': ' ', 'after': ' ', 'timex': {'tid': 't2',
+[{''type': 'DATE', 'value': '16XX'}}, {'index': 13, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1214,
+[{''characterOffsetEnd': 1217, 'pos': 'DT', 'ner': 'DATE', 'normalizedNER':
+[{''16XX', 'before': ' ', 'after': ' ', 'timex': {'tid': 't2', 'type': 'DATE',
+[{''value': '16XX'}}, {'index': 14, 'word': '17th', 'originalText': '17th',
+[{''lemma': '17th', 'characterOffsetBegin': 1218, 'characterOffsetEnd': 1222,
+[{''pos': 'JJ', 'ner': 'DATE', 'normalizedNER': '16XX', 'before': ' ', 'after':
+[{'' ', 'timex': {'tid': 't2', 'type': 'DATE', 'value': '16XX'}}, {'index': 15,
+[{''word': 'century', 'originalText': 'century', 'lemma': 'century',
+[{''characterOffsetBegin': 1223, 'characterOffsetEnd': 1230, 'pos': 'NN', 'ner':
+[{''DATE', 'normalizedNER': '16XX', 'before': ' ', 'after': '', 'timex': {'tid':
+[{''t2', 'type': 'DATE', 'value': '16XX'}}, {'index': 16, 'word': '.',
+[{''originalText': '.', 'lemma': '.', 'characterOffsetBegin': 1230,
+[{''characterOffsetEnd': 1231, 'pos': '.', 'ner': 'O', 'before': '', 'after': '
+[{''}]}, {'index': 11, 'entitymentions': docTokenBegin': 245, 'docTokenEnd':
+[{'246, 'tokenBegin': 5, 'tokenEnd': 6, 'text': '43', 'characterOffsetBegin':
+[{'1254, 'characterOffsetEnd': 1256, 'ner': 'NUMBER', 'normalizedNER': '43.0',
+[{''nerConfidences': {'NUMBER': -1}}], 'tokens': index': 1, 'word': 'It',
+[{''originalText': 'It', 'lemma': 'it', 'characterOffsetBegin': 1232,
+[{''characterOffsetEnd': 1234, 'pos': 'PRP', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 2, 'word': 'covers', 'originalText': 'covers', 'lemma':
+[{''cover', 'characterOffsetBegin': 1235, 'characterOffsetEnd': 1241, 'pos':
+[{''VBZ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 3, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1242,
+[{''characterOffsetEnd': 1245, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 4, 'word': 'area', 'originalText': 'area', 'lemma': 'area',
+[{''characterOffsetBegin': 1246, 'characterOffsetEnd': 1250, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 5, 'word': 'of', 'originalText':
+[{''of', 'lemma': 'of', 'characterOffsetBegin': 1251, 'characterOffsetEnd':
+[{'1253, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 6,
+[{''word': '43', 'originalText': '43', 'lemma': '43', 'characterOffsetBegin':
+[{'1254, 'characterOffsetEnd': 1256, 'pos': 'CD', 'ner': 'NUMBER',
+[{''normalizedNER': '43.0', 'before': ' ', 'after': ' '}, {'index': 7, 'word':
+[{''ha', 'originalText': 'ha', 'lemma': 'ha', 'characterOffsetBegin': 1257,
+[{''characterOffsetEnd': 1259, 'pos': 'UH', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 8, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 1259, 'characterOffsetEnd': 1260, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 12, 'entitymentions':
+[{'docTokenBegin': 250, 'docTokenEnd': 253, 'tokenBegin': 2, 'tokenEnd': 5,
+[{''text': 'French-styled', 'characterOffsetBegin': 1273, 'characterOffsetEnd':
+[{'1286, 'ner': 'MISC', 'nerConfidences': {'MISC': 0.9984613134712}}], 'tokens':
+[{'index': 1, 'word': 'Its', 'originalText': 'Its', 'lemma': 'its',
+[{''characterOffsetBegin': 1261, 'characterOffsetEnd': 1264, 'pos': 'PRP$',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 2, 'word': 'central',
+[{''originalText': 'central', 'lemma': 'central', 'characterOffsetBegin': 1265,
+[{''characterOffsetEnd': 1272, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 3, 'word': 'French', 'originalText': 'French', 'lemma':
+[{''french', 'characterOffsetBegin': 1273, 'characterOffsetEnd': 1279, 'pos':
+[{''JJ', 'ner': 'MISC', 'before': ' ', 'after': ''}, {'index': 4, 'word': '-',
+[{''originalText': '-', 'lemma': '-', 'characterOffsetBegin': 1279,
+[{''characterOffsetEnd': 1280, 'pos': 'HYPH', 'ner': 'MISC', 'before': '',
+[{''after': ''}, {'index': 5, 'word': 'styled', 'originalText': 'styled',
+[{''lemma': 'style', 'characterOffsetBegin': 1280, 'characterOffsetEnd': 1286,
+[{''pos': 'VBN', 'ner': 'MISC', 'before': '', 'after': ' '}, {'index': 6,
+[{''word': 'area', 'originalText': 'area', 'lemma': 'area',
+[{''characterOffsetBegin': 1287, 'characterOffsetEnd': 1291, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 7, 'word': 'corresponds',
+[{''originalText': 'corresponds', 'lemma': 'correspond', 'characterOffsetBegin':
+[{'1292, 'characterOffsetEnd': 1303, 'pos': 'VBZ', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 8, 'word': 'to', 'originalText': 'to', 'lemma':
+[{''to', 'characterOffsetBegin': 1304, 'characterOffsetEnd': 1306, 'pos': 'IN',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 9, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1307,
+[{''characterOffsetEnd': 1310, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 10, 'word': 'ancient', 'originalText': 'ancient', 'lemma':
+[{''ancient', 'characterOffsetBegin': 1311, 'characterOffsetEnd': 1318, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 11, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 1318,
+[{''characterOffsetEnd': 1319, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 12, 'word': 'baroque', 'originalText': 'baroque', 'lemma':
+[{''baroque', 'characterOffsetBegin': 1320, 'characterOffsetEnd': 1327, 'pos':
+[{''JJ', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 13, 'word':
+[{''forms', 'originalText': 'forms', 'lemma': 'form', 'characterOffsetBegin':
+[{'1328, 'characterOffsetEnd': 1333, 'pos': 'NNS', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 14, 'word': 'of', 'originalText': 'of', 'lemma':
+[{''of', 'characterOffsetBegin': 1334, 'characterOffsetEnd': 1336, 'pos': 'IN',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 15, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1337,
+[{''characterOffsetEnd': 1340, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 16, 'word': 'palace', 'originalText': 'palace', 'lemma':
+[{''palace', 'characterOffsetBegin': 1341, 'characterOffsetEnd': 1347, 'pos':
+[{''NN', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 17, 'word': '.',
+[{''originalText': '.', 'lemma': '.', 'characterOffsetBegin': 1347,
+[{''characterOffsetEnd': 1348, 'pos': '.', 'ner': 'O', 'before': '', 'after': '
+[{''}]}, {'index': 13, 'entitymentions': docTokenBegin': 279, 'docTokenEnd':
+[{'282, 'tokenBegin': 14, 'tokenEnd': 17, 'text': 'two-level',
+[{''characterOffsetBegin': 1412, 'characterOffsetEnd': 1421, 'ner': 'NUMBER',
+[{''normalizedNER': '2.0', 'nerConfidences': {'NUMBER': -1}}], 'tokens': index':
+[{'1, 'word': 'The', 'originalText': 'The', 'lemma': 'the',
+[{''characterOffsetBegin': 1349, 'characterOffsetEnd': 1352, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 2, 'word': 'eastern',
+[{''originalText': 'eastern', 'lemma': 'eastern', 'characterOffsetBegin': 1353,
+[{''characterOffsetEnd': 1360, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 3, 'word': 'section', 'originalText': 'section', 'lemma':
+[{''section', 'characterOffsetBegin': 1361, 'characterOffsetEnd': 1368, 'pos':
+[{''NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'of',
+[{''originalText': 'of', 'lemma': 'of', 'characterOffsetBegin': 1369,
+[{''characterOffsetEnd': 1371, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 5, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 1372, 'characterOffsetEnd': 1375, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'park',
+[{''originalText': 'park', 'lemma': 'park', 'characterOffsetBegin': 1376,
+[{''characterOffsetEnd': 1380, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 7, 'word': ',', 'originalText': ',', 'lemma': ',',
+[{''characterOffsetBegin': 1380, 'characterOffsetEnd': 1381, 'pos': ',', 'ner':
+[{''O', 'before': '', 'after': ' '}, {'index': 8, 'word': 'closest',
+[{''originalText': 'closest', 'lemma': 'closest', 'characterOffsetBegin': 1382,
+[{''characterOffsetEnd': 1389, 'pos': 'JJS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 9, 'word': 'to', 'originalText': 'to', 'lemma': 'to',
+[{''characterOffsetBegin': 1390, 'characterOffsetEnd': 1392, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 10, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1393,
+[{''characterOffsetEnd': 1396, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 11, 'word': 'Palace', 'originalText': 'Palace', 'lemma':
+[{''Palace', 'characterOffsetBegin': 1397, 'characterOffsetEnd': 1403, 'pos':
+[{''NNP', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 12, 'word': ',',
+[{''originalText': ',', 'lemma': ',', 'characterOffsetBegin': 1403,
+[{''characterOffsetEnd': 1404, 'pos': ',', 'ner': 'O', 'before': '', 'after': '
+[{''}, {'index': 13, 'word': 'is', 'originalText': 'is', 'lemma': 'be',
+[{''characterOffsetBegin': 1405, 'characterOffsetEnd': 1407, 'pos': 'VBZ',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 14, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1408,
+[{''characterOffsetEnd': 1411, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 15, 'word': 'two', 'originalText': 'two', 'lemma': 'two',
+[{''characterOffsetBegin': 1412, 'characterOffsetEnd': 1415, 'pos': 'CD', 'ner':
+[{''NUMBER', 'normalizedNER': '2.0', 'before': ' ', 'after': ''}, {'index': 16,
+[{''word': '-', 'originalText': '-', 'lemma': '-', 'characterOffsetBegin': 1415,
+[{''characterOffsetEnd': 1416, 'pos': 'HYPH', 'ner': 'NUMBER', 'normalizedNER':
+[{''2.0', 'before': '', 'after': ''}, {'index': 17, 'word': 'level',
+[{''originalText': 'level', 'lemma': 'level', 'characterOffsetBegin': 1416,
+[{''characterOffsetEnd': 1421, 'pos': 'NN', 'ner': 'NUMBER', 'normalizedNER':
+[{''2.0', 'before': '', 'after': ' '}, {'index': 18, 'word': 'garden',
+[{''originalText': 'garden', 'lemma': 'garden', 'characterOffsetBegin': 1422,
+[{''characterOffsetEnd': 1428, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 19, 'word': 'with', 'originalText': 'with', 'lemma': 'with',
+[{''characterOffsetBegin': 1429, 'characterOffsetEnd': 1433, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 20, 'word': 'a', 'originalText':
+[{''a', 'lemma': 'a', 'characterOffsetBegin': 1434, 'characterOffsetEnd': 1435,
+[{''pos': 'DT', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 21, 'word':
+[{''terrace', 'originalText': 'terrace', 'lemma': 'terrace',
+[{''characterOffsetBegin': 1436, 'characterOffsetEnd': 1443, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 22, 'word': 'facing',
+[{''originalText': 'facing', 'lemma': 'face', 'characterOffsetBegin': 1444,
+[{''characterOffsetEnd': 1450, 'pos': 'VBG', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 23, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 1451, 'characterOffsetEnd': 1454, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 24, 'word': 'pond',
+[{''originalText': 'pond', 'lemma': 'pond', 'characterOffsetBegin': 1455,
+[{''characterOffsetEnd': 1459, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after':
+[{'''}, {'index': 25, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 1459, 'characterOffsetEnd': 1460, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 14, 'entitymentions':
+[{'docTokenBegin': 294, 'docTokenEnd': 296, 'tokenBegin': 4, 'tokenEnd': 6,
+[{''text': 'Królikarnia Palace', 'characterOffsetBegin': 1481,
+[{''characterOffsetEnd': 1499, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.70952270919373}}, {'docTokenBegin': 304, 'docTokenEnd': 305, 'tokenBegin':
+[{'14, 'tokenEnd': 15, 'text': 'Vistula', 'characterOffsetBegin': 1541,
+[{''characterOffsetEnd': 1548, 'ner': 'LOCATION', 'nerConfidences': {'LOCATION':
+[{'0.92668148439869}}], 'tokens': index': 1, 'word': 'The', 'originalText':
+[{''The', 'lemma': 'the', 'characterOffsetBegin': 1461, 'characterOffsetEnd':
+[{'1464, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 2,
+[{''word': 'park', 'originalText': 'park', 'lemma': 'park',
+[{''characterOffsetBegin': 1465, 'characterOffsetEnd': 1469, 'pos': 'NN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 3, 'word': 'around',
+[{''originalText': 'around', 'lemma': 'around', 'characterOffsetBegin': 1470,
+[{''characterOffsetEnd': 1476, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 4, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 1477, 'characterOffsetEnd': 1480, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 5, 'word': 'Królikarnia',
+[{''originalText': 'Królikarnia', 'lemma': 'Królikarnia',
+[{''characterOffsetBegin': 1481, 'characterOffsetEnd': 1492, 'pos': 'NNP',
+[{''ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 6, 'word':
+[{''Palace', 'originalText': 'Palace', 'lemma': 'Palace',
+[{''characterOffsetBegin': 1493, 'characterOffsetEnd': 1499, 'pos': 'NNP',
+[{''ner': 'LOCATION', 'before': ' ', 'after': ' '}, {'index': 7, 'word': 'is',
+[{''originalText': 'is', 'lemma': 'be', 'characterOffsetBegin': 1500,
+[{''characterOffsetEnd': 1502, 'pos': 'VBZ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 8, 'word': 'situated', 'originalText': 'situated', 'lemma':
+[{''situate', 'characterOffsetBegin': 1503, 'characterOffsetEnd': 1511, 'pos':
+[{''VBN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 9, 'word': 'on',
+[{''originalText': 'on', 'lemma': 'on', 'characterOffsetBegin': 1512,
+[{''characterOffsetEnd': 1514, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 10, 'word': 'the', 'originalText': 'the', 'lemma': 'the',
+[{''characterOffsetBegin': 1515, 'characterOffsetEnd': 1518, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 11, 'word': 'old',
+[{''originalText': 'old', 'lemma': 'old', 'characterOffsetBegin': 1519,
+[{''characterOffsetEnd': 1522, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 12, 'word': 'escarpment', 'originalText': 'escarpment',
+[{''lemma': 'escarpment', 'characterOffsetBegin': 1523, 'characterOffsetEnd':
+[{'1533, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 13,
+[{''word': 'of', 'originalText': 'of', 'lemma': 'of', 'characterOffsetBegin':
+[{'1534, 'characterOffsetEnd': 1536, 'pos': 'IN', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 14, 'word': 'the', 'originalText': 'the', 'lemma':
+[{''the', 'characterOffsetBegin': 1537, 'characterOffsetEnd': 1540, 'pos': 'DT',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 15, 'word': 'Vistula',
+[{''originalText': 'Vistula', 'lemma': 'Vistula', 'characterOffsetBegin': 1541,
+[{''characterOffsetEnd': 1548, 'pos': 'NNP', 'ner': 'LOCATION', 'before': ' ',
+[{''after': ''}, {'index': 16, 'word': '.', 'originalText': '.', 'lemma': '.',
+[{''characterOffsetBegin': 1548, 'characterOffsetEnd': 1549, 'pos': '.', 'ner':
+[{''O', 'before': '', 'after': ' '}]}, {'index': 15, 'entitymentions': [],
+[{''tokens': index': 1, 'word': 'The', 'originalText': 'The', 'lemma': 'the',
+[{''characterOffsetBegin': 1550, 'characterOffsetEnd': 1553, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 2, 'word': 'park',
+[{''originalText': 'park', 'lemma': 'park', 'characterOffsetBegin': 1554,
+[{''characterOffsetEnd': 1558, 'pos': 'NN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 3, 'word': 'has', 'originalText': 'has', 'lemma': 'have',
+[{''characterOffsetBegin': 1559, 'characterOffsetEnd': 1562, 'pos': 'VBZ',
+[{''ner': 'O', 'before': ' ', 'after': ' '}, {'index': 4, 'word': 'lanes',
+[{''originalText': 'lanes', 'lemma': 'lane', 'characterOffsetBegin': 1563,
+[{''characterOffsetEnd': 1568, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 5, 'word': 'running', 'originalText': 'running', 'lemma':
+[{''run', 'characterOffsetBegin': 1569, 'characterOffsetEnd': 1576, 'pos':
+[{''VBG', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 6, 'word': 'on',
+[{''originalText': 'on', 'lemma': 'on', 'characterOffsetBegin': 1577,
+[{''characterOffsetEnd': 1579, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 7, 'word': 'a', 'originalText': 'a', 'lemma': 'a',
+[{''characterOffsetBegin': 1580, 'characterOffsetEnd': 1581, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 8, 'word': 'few',
+[{''originalText': 'few', 'lemma': 'few', 'characterOffsetBegin': 1582,
+[{''characterOffsetEnd': 1585, 'pos': 'JJ', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 9, 'word': 'levels', 'originalText': 'levels', 'lemma':
+[{''level', 'characterOffsetBegin': 1586, 'characterOffsetEnd': 1592, 'pos':
+[{''NNS', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 10, 'word':
+[{''deep', 'originalText': 'deep', 'lemma': 'deep', 'characterOffsetBegin':
+[{'1593, 'characterOffsetEnd': 1597, 'pos': 'RB', 'ner': 'O', 'before': ' ',
+[{''after': ' '}, {'index': 11, 'word': 'into', 'originalText': 'into', 'lemma':
+[{''into', 'characterOffsetBegin': 1598, 'characterOffsetEnd': 1602, 'pos':
+[{''IN', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 12, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1603,
+[{''characterOffsetEnd': 1606, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 13, 'word': 'ravines', 'originalText': 'ravines', 'lemma':
+[{''ravine', 'characterOffsetBegin': 1607, 'characterOffsetEnd': 1614, 'pos':
+[{''NNS', 'ner': 'O', 'before': ' ', 'after': ' '}, {'index': 14, 'word': 'on',
+[{''originalText': 'on', 'lemma': 'on', 'characterOffsetBegin': 1615,
+[{''characterOffsetEnd': 1617, 'pos': 'IN', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 15, 'word': 'both', 'originalText': 'both', 'lemma': 'both',
+[{''characterOffsetBegin': 1618, 'characterOffsetEnd': 1622, 'pos': 'DT', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 16, 'word': 'sides',
+[{''originalText': 'sides', 'lemma': 'side', 'characterOffsetBegin': 1623,
+[{''characterOffsetEnd': 1628, 'pos': 'NNS', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 17, 'word': 'of', 'originalText': 'of', 'lemma': 'of',
+[{''characterOffsetBegin': 1629, 'characterOffsetEnd': 1631, 'pos': 'IN', 'ner':
+[{''O', 'before': ' ', 'after': ' '}, {'index': 18, 'word': 'the',
+[{''originalText': 'the', 'lemma': 'the', 'characterOffsetBegin': 1632,
+[{''characterOffsetEnd': 1635, 'pos': 'DT', 'ner': 'O', 'before': ' ', 'after':
+[{'' '}, {'index': 19, 'word': 'palace', 'originalText': 'palace', 'lemma':
+[{''palace', 'characterOffsetBegin': 1636, 'characterOffsetEnd': 1642, 'pos':
+[{''NN', 'ner': 'O', 'before': ' ', 'after': ''}, {'index': 20, 'word': '.',
+[{''originalText': '.', 'lemma': '.', 'characterOffsetBegin': 1642,
+[{''characterOffsetEnd': 1643, 'pos': '.', 'ner': 'O', 'before': '', 'after':
+[{'''}]}]
