@@ -12,7 +12,7 @@ from debias.datasets.training_data_loader import TrainingData, TrainingDataLoade
   PREMISE_KEY
 from debias.utils import py_utils
 
-DATASETS = ["train", "dev", "add_sent", "add_one_sent","experiment"]
+DATASETS = ["train", "dev", "add_sent", "add_one_sent"]
 
 SQUAD_URLS = {
   "train": "https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v1.1.json",
@@ -24,8 +24,8 @@ SQUAD_URLS = {
 
 
 ANNOTATED_SQUAD_FILE_IDS = {
-  "dev": "1j9lLz7jWg8F04iMM4C-iSFosq_33PWZe",
-  "train": "129cF4sv8gws1hWBWAVAqlJ91_KBu4d54",
+  "dev": "1j9lLz7jWg8F04iMM4C-iSFosq_33PWZe",   # not in sync
+  "train": "129cF4sv8gws1hWBWAVAqlJ91_KBu4d54", # not in sync
   "add_sent": "1OsSQTjo--SaI-lkiPVLp_x-1o7DCzFV3",
   "add_one_sent": "1BAjuKWrkx73y-wR-vfFnCj3tvAlhEWYK"
 }
@@ -80,6 +80,7 @@ class AnnotatedSquadParagraph:
 
 def load_squad_documents(dataset_name) -> Dict:
   """Loads the original SQuAD data, needed to run the official evaluation scripts"""
+  print("Loading SQUAD documents (JSON)")
 
   if dataset_name not in SQUAD_URLS:
     raise ValueError(dataset_name)
@@ -196,10 +197,19 @@ def make_dataset(lst: List[Tuple], bias=None, sample=None, shuffle=False) -> tf.
 def make_dataset_stratify(lst: List[Tuple], bias, n_groups) -> tf.data.Dataset:
   """Convert tuples from `convert_to_tuples` into a tf.data.Dataset,
   while stratifying the bias accuracy"""
+
+  print("lst LENGTH", len(lst))
   dataset_structure = list(base_features)
   if bias:
     n = len(base_features)
-    lst = [x[:n] + (bias[x[0]], ) + x[n:] for x in lst]
+    newlst =[]
+    for x in lst:
+        if x[0] in bias:
+            newentry = x[:n] + (bias[x[0]], ) + x[n:]
+            newlst.append(newentry)
+
+    # lst = [x[:n] + (bias[x[0]], ) + x[n:] for x in lst]
+    lst = newlst
     dataset_structure.append(("bias", tf.float32, (None, 2)))
 
   dataset_structure += label_structure
@@ -207,21 +217,41 @@ def make_dataset_stratify(lst: List[Tuple], bias, n_groups) -> tf.data.Dataset:
   ds_names, ds_dtypes, ds_shapes = [tuple(x) for x in py_utils.transpose_lists(dataset_structure)]
 
   bias_ix = [i for i, name in enumerate(ds_names) if name == "bias"]
+
   if len(bias_ix) != 1:
     raise ValueError()
   bias_ix = bias_ix[0]
 
   bias_probs = []
+
+  counter = 0
+
   for example in lst:
     bias = example[bias_ix]
     spans = example[-2]
+
     if len(spans) == 0:
-      bias_probs.append(0)
+        bias_probs.append(0)
+        counter += 1
     else:
-      valid = example[-2]
-      bias_probs.append(bias[valid].sum())
+        try:
+          valid = example[-2]
+          bias_probs.append(bias[valid].sum())
+          # print(len(bias_probs), counter)
+          counter += 1
+
+        except:
+            print("Catching exception")
+            ### Delete the current entry from lst (which has incompatible shape)
+            lst = lst[:counter] + lst[counter+1:]
+            print("New lst Length ", len(bias_probs), counter)
+            continue
+
 
   ix = np.argsort(bias_probs)
+  print("lst LENGTH", len(lst), 'ix max min', max(ix), min(ix), 'bias prob LENGTH', len(bias_probs))
+
+
   lst = [lst[i] for i in ix]
 
   fn = build_stratified_epoch_fn(lst, n_groups)
@@ -286,9 +316,11 @@ class AnnotatedSquadLoader(TrainingDataLoader):
     else:
       bias = None
 
+    # elf.stratify = False
     if self.stratify:
       train = make_dataset_stratify(train_tuples, bias, self.stratify)
     else:
+    # print("TRAIN - MAKE DATASET")
       train = make_dataset(train_tuples, bias, shuffle=True)
 
     if self.sample_train_eval:

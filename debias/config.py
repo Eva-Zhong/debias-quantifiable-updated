@@ -9,7 +9,7 @@ HANS_SOURCE = join(SOURCE_DIR, "hans")
 GLUE_SOURCE = join(SOURCE_DIR, "glue_data")
 
 # Directory to store SQUAD v1.1 datasets
-SQUAD_SOURCE = join(SOURCE_DIR, "squad_1.1")
+SQUAD_SOURCE = join(SOURCE_DIR, "squad_1.1_ablation_Q")
 
 # Directory to store TriviaQA-CP datasets
 TRIVIAQA_CP_SOURCE = join(SOURCE_DIR, "triviaqa-cp")

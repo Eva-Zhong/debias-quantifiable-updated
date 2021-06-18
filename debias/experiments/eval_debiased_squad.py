@@ -119,6 +119,7 @@ def main():
   args = parser.parse_args()
   py_utils.add_stdout_logger()
 
+
   if args.datasets is None:
     # datasets = ["dev", "add_sent", "add_one_sent"]
     datasets = ["dev"]
@@ -128,6 +129,7 @@ def main():
       if ds not in squad.DATASETS:
         raise ValueError("Unsupported dataset %s" % ds)
 
+  print("****** DATASETS ", datasets)
   compute_all_scores(args.output_dir, datasets, not args.nocache)
 
 

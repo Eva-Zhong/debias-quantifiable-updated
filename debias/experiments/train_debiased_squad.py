@@ -43,7 +43,7 @@ def main():
   trainer = Trainer(
     batcher, opt, evaluator,
     eval_batch_size=90,
-    num_epochs=1, epoch_size=epoch_size,
+    num_epochs=25, epoch_size=epoch_size,
     log_period=100,
     prefetch=5, loss_ema=0.999,
     n_processes=args.n_processes
